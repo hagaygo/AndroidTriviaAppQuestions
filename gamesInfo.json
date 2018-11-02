@@ -1,0 +1,32 @@
+﻿{
+  "Games": [
+    {
+      "RawResourceName": "countries",
+      "ValueFormat": "#,##0.###",
+      "ValueFieldName": "AreaKM2",
+      "English": {
+        "Name": "Countries Area",
+        "QuestionText": "Which country area is larger ?",
+        "ValueTextFormat": "{0} km2"
+      },
+      "Hebrew": {
+        "Name": "שטחי מדינות",
+        "QuestionText": "איזה מדינה בעלת שטח גדול יותר ?",
+        "ValueTextFormat": "{0} קמ\"ר"
+      }
+    },
+    {
+      "RawResourceName": "countries",
+      "ValueFormat": "#,##0",
+      "ValueFieldName": "Population",
+      "English": {
+        "Name": "Countries Population",
+        "QuestionText": "Which country population is larger ?"        
+      },
+      "Hebrew": {
+        "Name": "תושבים במדינות",
+        "QuestionText": "איזה מדינה בעלת כמות תושבים גדולה יותר ?"        
+      }
+    }
+  ]
+}
