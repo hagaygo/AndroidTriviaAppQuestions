@@ -1,31 +1,186 @@
 ﻿{
   "Games": [
     {
+      "Guid": "{258F52A6-AEC7-469C-BE7D-568E91FEDD68}",
       "RawResourceName": "countries",
       "ValueFormat": "#,##0.###",
       "ValueFieldName": "AreaKM2",
       "English": {
-        "Name": "Countries Area",
+        "Name": "Area",
         "QuestionText": "Which country area is larger ?",
-        "ValueTextFormat": "{0} km2"
+        "ValueTextFormat": "{0} km2",
+        "Category" :  "Countries"
       },
       "Hebrew": {
-        "Name": "שטחי מדינות",
+        "Name": "שטח",
         "QuestionText": "איזה מדינה בעלת שטח גדול יותר ?",
-        "ValueTextFormat": "{0} קמ\"ר"
+        "ValueTextFormat": "{0} קמ\"ר",
+        "Category": "ארצות"
       }
     },
     {
+      "Guid": "{776D76F3-9066-4646-9B39-3CCD839394E7}",
       "RawResourceName": "countries",
       "ValueFormat": "#,##0",
       "ValueFieldName": "Population",
       "English": {
-        "Name": "Countries Population",
-        "QuestionText": "Which country population is larger ?"        
+        "Name": "Population",
+        "QuestionText": "Which country population is larger ?",
+        "Category": "Countries"
       },
       "Hebrew": {
-        "Name": "תושבים במדינות",
-        "QuestionText": "איזה מדינה בעלת כמות תושבים גדולה יותר ?"        
+        "Name": "תושבים",
+        "QuestionText": "איזה מדינה בעלת כמות תושבים גדולה יותר ?",
+        "Category": "ארצות"
+      }
+    },
+    {
+      "Guid": "{04D8DA53-D647-459D-9727-816D1273B37D}",
+      "RawResourceName": "movies",
+      "ValueFieldName": "ReleaseYear",
+      "ValueDelta": "-1900",
+      "ScaleFactor": "1",
+      "English": {
+        "Name": "Release year",
+        "QuestionText": "Which movie was released later ?",
+        "Category": "Movies"
+      },
+      "Hebrew": {
+        "Name": "תאריך יציאה",
+        "QuestionText": "איזה סרט יצא מאוחר יותר ?",
+        "Category": "סרטים"
+      }
+    },
+    {
+      "Guid": "{E14EF649-DF26-4394-AADC-F9F619CBABA0}",
+      "RawResourceName": "movies",
+      "ValueFieldName": "Budget",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Budget",
+        "QuestionText": "Which movie has larger budget ?",
+        "ValueTextFormat": "${0}",
+        "Category": "Movies"
+      },
+      "Hebrew": {
+        "Name": "תקציב",
+        "QuestionText": "איזה סרט בעל תקציב גדול יותר ?",
+        "ValueTextFormat": "${0}",
+        "Category": "סרטים"
+      }
+    },
+    {
+      "Guid": "{0D7C8B8C-183B-40CB-987B-19A785BB8182}",
+      "RawResourceName": "movies",
+      "ValueFieldName": "Revenue",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Revenue",
+        "QuestionText": "Which movie has larger revenue ?",
+        "ValueTextFormat": "${0}",
+        "Category": "Movies"
+      },
+      "Hebrew": {
+        "Name": "הכנסה",
+        "QuestionText": "איזה סרט בעל הכנסות גדולות יותר ?",
+        "ValueTextFormat": "${0}",
+        "Category": "סרטים"
+      }
+    },
+    {
+      "Guid": "{F8111A6E-9DC5-4742-983C-72F7A74C1041}",
+      "RawResourceName": "actors",
+      "ValueFieldName": "BirthYear",
+      "ValueDelta": "-1900",
+      "ScaleFactor": "1",
+      "English": {
+        "Name": "Birth year",
+        "QuestionText": "which actor was born later ?",
+        "Category": "Actors"
+      },
+      "Hebrew": {
+        "Name": "שנת לידה",
+        "QuestionText": "מי נולד מאוחר יותר ?",
+        "Category": "שחקנים"
+      }
+    },
+    {
+      "Guid": "{B3CEF510-D6EB-46F7-A01E-470A7162F6D0}",
+      "RawResourceName": "actors",
+      "ValueFieldName": "DeathYear",
+      "ValueDelta": "-1900",
+      "ScaleFactor": "1",
+      "English": {
+        "Name": "Death year",
+        "QuestionText": "Which actor died later ?",
+        "Category": "Actors"
+      },
+      "Hebrew": {
+        "Name": "שנת פטירה",
+        "QuestionText": "מי נפטר מאוחר יותר ?",
+        "Category": "שחקנים"
+      }
+    },
+    {
+      "Guid": "{3E7BD8E6-8788-4903-BA87-5602947585AA}",
+      "RawResourceName": "famous",
+      "ValueFieldName": "BirthYear",
+      "ValueDelta": "-1200",
+      "ScaleFactor": "1",
+      "English": {
+        "Name": "Birth year",
+        "QuestionText": "Which person was born later ?",
+        "Category": "Famous people"
+      },
+      "Hebrew": {
+        "Name": "שנת לידה",
+        "QuestionText": "מי נולד מאוחר יותר ?",
+        "Category": "מפורסמים"
+      }
+    },
+    {
+      "Guid": "{551DA849-69E7-4921-B963-9748D4283E9B}",
+      "RawResourceName": "famous",
+      "ValueFieldName": "DeathYear",
+      "English": {
+        "Name": "Death year",
+        "QuestionText": "Which person died later ?",
+        "Category": "Famous people"
+      },
+      "Hebrew": {
+        "Name": "שנת פטירה",
+        "QuestionText": "מי נפטר מאוחר יותר ?",
+        "Category": "מפורסמים"
+      }
+    },
+    {
+      "Guid": "{8CC8AC38-BA13-4BED-B725-EC6D7EC6989D}",
+      "RawResourceName": "famous",
+      "ValueFieldName": "Age",
+      "English": {
+        "Name": "Age",
+        "QuestionText": "Which person died older ?",
+        "Category": "Famous people"
+      },
+      "Hebrew": {
+        "Name": "גיל",
+        "QuestionText": "מי נפטר מבוגר יותר ?",
+        "Category": "מפורסמים"
+      }
+    },
+    {
+      "Guid": "{C86583AA-CF7A-4F6E-B45C-533E37CBE390}",
+      "RawResourceName": "actors",
+      "ValueFieldName": "Age",
+      "English": {
+        "Name": "Age",
+        "QuestionText": "Which actor died older ?",
+        "Category": "Actors"
+      },
+      "Hebrew": {
+        "Name": "גיל",
+        "QuestionText": "מי נפטר מבוגר יותר ?",
+        "Category": "שחקנים"
       }
     }
   ]
