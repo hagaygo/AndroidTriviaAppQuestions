@@ -1,0 +1,706 @@
+[
+  {
+    "EnglishName": "Chonqing",
+    "HebrewName": "צ'ונגצ'ינג",
+    "Population": 30165500,
+    "AreaKM2": 82403.0,
+    "Density": 366.07,
+    "Latitude": 29.333000
+  },
+  {
+    "EnglishName": "Shanghai",
+    "HebrewName": "שאנגחאי",
+    "Population": 24183300,
+    "AreaKM2": 6340.5,
+    "Density": 3814.10,
+    "Latitude": 31.134300
+  },
+  {
+    "EnglishName": "Beijing",
+    "HebrewName": "בייג'ינג",
+    "Population": 21707000,
+    "AreaKM2": 16411.0,
+    "Density": 1322.71,
+    "Latitude": 39.550000
+  },
+  {
+    "EnglishName": "Istanbul",
+    "HebrewName": "איסטנבול",
+    "Population": 15029231,
+    "AreaKM2": 620.29,
+    "Density": 24229.36,
+    "Latitude": 41.004900
+  },
+  {
+    "EnglishName": "Karachi",
+    "HebrewName": "קראצ'י",
+    "Population": 14910352,
+    "AreaKM2": 3780.0,
+    "Density": 3944.54,
+    "Latitude": 24.513600
+  },
+  {
+    "EnglishName": "Dhaka",
+    "HebrewName": "דאקה",
+    "Population": 14399000,
+    "AreaKM2": 337.54,
+    "Density": 42658.65,
+    "Latitude": 23.425800
+  },
+  {
+    "EnglishName": "Moscow",
+    "HebrewName": "מוסקבה",
+    "Population": 13200000,
+    "AreaKM2": 2511.0,
+    "Density": 5256.87,
+    "Latitude": 55.450000
+  },
+  {
+    "EnglishName": "Guangzhou",
+    "HebrewName": "גואנגג'ואו",
+    "Population": 13081000,
+    "AreaKM2": 7434.0,
+    "Density": 1759.62,
+    "Latitude": 23.075500
+  },
+  {
+    "EnglishName": "Shenzhen",
+    "HebrewName": "שנג'ן",
+    "Population": 12528300,
+    "AreaKM2": 1992.0,
+    "Density": 6289.31,
+    "Latitude": 22.330000
+  },
+  {
+    "EnglishName": "Mumbai",
+    "HebrewName": "מומבאי",
+    "Population": 12442373,
+    "AreaKM2": 437.71,
+    "Density": 28426.07,
+    "Latitude": 18.583000
+  },
+  {
+    "EnglishName": "São Paulo",
+    "HebrewName": "סאו פאולו",
+    "Population": 12038000,
+    "AreaKM2": 1081.05,
+    "Density": 11135.47,
+    "Latitude": -23.330000
+  },
+  {
+    "EnglishName": "Kinshasa",
+    "HebrewName": "קינשאסה",
+    "Population": 11462000,
+    "AreaKM2": 473.73,
+    "Density": 24195.22,
+    "Latitude": -4.193000
+  },
+  {
+    "EnglishName": "Tianjin",
+    "HebrewName": "טיינג'ין",
+    "Population": 11249000,
+    "AreaKM2": 11920.0,
+    "Density": 943.71,
+    "Latitude": 39.080000
+  },
+  {
+    "EnglishName": "Lahore",
+    "HebrewName": "לאהור",
+    "Population": 11126000,
+    "AreaKM2": 502.55,
+    "Density": 22139.09,
+    "Latitude": 31.325900
+  },
+  {
+    "EnglishName": "Delhi",
+    "HebrewName": "דלהי",
+    "Population": 11034555,
+    "AreaKM2": 461.83,
+    "Density": 23893.11,
+    "Latitude": 28.363600
+  },
+  {
+    "EnglishName": "Jakarta",
+    "HebrewName": "ג'קרטה",
+    "Population": 10624000,
+    "AreaKM2": 661.50,
+    "Density": 16060.47,
+    "Latitude": -6.120000
+  },
+  {
+    "EnglishName": "Dongguan",
+    "HebrewName": "דונגגוואן",
+    "Population": 10615000,
+    "AreaKM2": 2460.0,
+    "Density": 4315.04,
+    "Latitude": 23.011600
+  },
+  {
+    "EnglishName": "Seoul",
+    "HebrewName": "סיאול",
+    "Population": 9806000,
+    "AreaKM2": 605.25,
+    "Density": 16201.57,
+    "Latitude": 37.340000
+  },
+  {
+    "EnglishName": "Foshan",
+    "HebrewName": "פושאן",
+    "Population": 9279000,
+    "AreaKM2": 3797.0,
+    "Density": 2443.77,
+    "Latitude": 23.010000
+  },
+  {
+    "EnglishName": "Tokyo",
+    "HebrewName": "טוקיו",
+    "Population": 9273000,
+    "AreaKM2": 626.99,
+    "Density": 14789.71,
+    "Latitude": 35.410000
+  },
+  {
+    "EnglishName": "Chengdu",
+    "HebrewName": "צ'נגדו",
+    "Population": 9012000,
+    "AreaKM2": 14312.0,
+    "Density": 629.68,
+    "Latitude": 30.392500
+  },
+  {
+    "EnglishName": "Lima",
+    "HebrewName": "לימה",
+    "Population": 8894000,
+    "AreaKM2": 2672.0,
+    "Density": 3328.59,
+    "Latitude": -12.236000
+  },
+  {
+    "EnglishName": "Mexico City",
+    "HebrewName": "מקסיקו סיטי",
+    "Population": 8875000,
+    "AreaKM2": 607.22,
+    "Density": 14615.79,
+    "Latitude": 19.260000
+  },
+  {
+    "EnglishName": "London",
+    "HebrewName": "לונדון",
+    "Population": 8825001,
+    "AreaKM2": 1572.0,
+    "Density": 5613.87,
+    "Latitude": 51.302600
+  },
+  {
+    "EnglishName": "Tehran",
+    "HebrewName": "טהראן",
+    "Population": 8694000,
+    "AreaKM2": 574.13,
+    "Density": 15142.91,
+    "Latitude": 35.412100
+  },
+  {
+    "EnglishName": "New York",
+    "HebrewName": "ניו יורק",
+    "Population": 8622698,
+    "AreaKM2": 786.30,
+    "Density": 10966.17,
+    "Latitude": 40.424600
+  },
+  {
+    "EnglishName": "Bangalore",
+    "HebrewName": "בנגלור",
+    "Population": 8443675,
+    "AreaKM2": 709.0,
+    "Density": 11909.27,
+    "Latitude": 12.590000
+  },
+  {
+    "EnglishName": "Shenyang",
+    "HebrewName": "שן-יאנג",
+    "Population": 8106171,
+    "AreaKM2": 12980.0,
+    "Density": 624.51,
+    "Latitude": 41.480000
+  },
+  {
+    "EnglishName": "Wuhan",
+    "HebrewName": "ווהאן",
+    "Population": 8035000,
+    "AreaKM2": 8494.0,
+    "Density": 945.96,
+    "Latitude": 30.350000
+  },
+  {
+    "EnglishName": "Bogotá",
+    "HebrewName": "בוגוטה",
+    "Population": 7963000,
+    "AreaKM2": 428.26,
+    "Density": 18593.84,
+    "Latitude": 4.424000
+  },
+  {
+    "EnglishName": "Ningbo",
+    "HebrewName": null,
+    "Population": 7605689,
+    "AreaKM2": 9816.23,
+    "Density": 774.81,
+    "Latitude": 29.520800
+  },
+  {
+    "EnglishName": "Cairo",
+    "HebrewName": "קהיר",
+    "Population": 7601018,
+    "AreaKM2": 302.56,
+    "Density": 25122.35,
+    "Latitude": 30.240000
+  },
+  {
+    "EnglishName": "Ho Chi Minh City",
+    "HebrewName": "הו צ'י מין סיטי",
+    "Population": 7431000,
+    "AreaKM2": 453.60,
+    "Density": 16382.28,
+    "Latitude": 10.480000
+  },
+  {
+    "EnglishName": "Hong Kong",
+    "HebrewName": "הונג קונג",
+    "Population": 7298600,
+    "AreaKM2": 1104.43,
+    "Density": 6608.48,
+    "Latitude": 22.180000
+  },
+  {
+    "EnglishName": "Nanjing",
+    "HebrewName": "נאנג'ינג",
+    "Population": 7260000,
+    "AreaKM2": 6582.0,
+    "Density": 1103.01,
+    "Latitude": 32.030000
+  },
+  {
+    "EnglishName": "Hanoi",
+    "HebrewName": "האנוי",
+    "Population": 7232700,
+    "AreaKM2": 3324.5,
+    "Density": 2175.58,
+    "Latitude": 21.014200
+  },
+  {
+    "EnglishName": "Changsha",
+    "HebrewName": null,
+    "Population": 7044118,
+    "AreaKM2": 11819.0,
+    "Density": 596.00,
+    "Latitude": 28.134100
+  },
+  {
+    "EnglishName": "Hangzhou",
+    "HebrewName": "האנגג'ואו",
+    "Population": 7035000,
+    "AreaKM2": 850.83,
+    "Density": 8268.40,
+    "Latitude": 30.150000
+  },
+  {
+    "EnglishName": "Hyderabad",
+    "HebrewName": "היידראבאד",
+    "Population": 6993262,
+    "AreaKM2": 651.75,
+    "Density": 10729.98,
+    "Latitude": 17.220000
+  },
+  {
+    "EnglishName": "Baghdad",
+    "HebrewName": "בגדאד",
+    "Population": 6793000,
+    "AreaKM2": 424.53,
+    "Density": 16001.22,
+    "Latitude": 33.200000
+  },
+  {
+    "EnglishName": "Chennai",
+    "HebrewName": "צ'נאי",
+    "Population": 6727000,
+    "AreaKM2": 426.51,
+    "Density": 15772.20,
+    "Latitude": 13.500000
+  },
+  {
+    "EnglishName": "Riyadh",
+    "HebrewName": "ריאד",
+    "Population": 6694000,
+    "AreaKM2": 410.97,
+    "Density": 16288.29,
+    "Latitude": 24.380000
+  },
+  {
+    "EnglishName": "Rio de Janeiro",
+    "HebrewName": "ריו דה ז'ניירו",
+    "Population": 6520000,
+    "AreaKM2": 751.44,
+    "Density": 8676.67,
+    "Latitude": -22.543000
+  },
+  {
+    "EnglishName": "Xi'an",
+    "HebrewName": "שיאן",
+    "Population": 6220000,
+    "AreaKM2": 10135.0,
+    "Density": 613.71,
+    "Latitude": 34.155400
+  },
+  {
+    "EnglishName": "Suzhou",
+    "HebrewName": "סוג'ואו",
+    "Population": 5983000,
+    "AreaKM2": 8488.0,
+    "Density": 704.88,
+    "Latitude": 31.180000
+  },
+  {
+    "EnglishName": "Bangkok",
+    "HebrewName": "בנגקוק",
+    "Population": 5782000,
+    "AreaKM2": 764.73,
+    "Density": 7560.84,
+    "Latitude": 13.450900
+  },
+  {
+    "EnglishName": "Singapore",
+    "HebrewName": "סינגפור",
+    "Population": 5607000,
+    "AreaKM2": 602.75,
+    "Density": 9302.36,
+    "Latitude": 1.170000
+  },
+  {
+    "EnglishName": "Ahmedabad",
+    "HebrewName": "אחמדאבאד",
+    "Population": 5570585,
+    "AreaKM2": 351.21,
+    "Density": 15861.12,
+    "Latitude": 23.020000
+  },
+  {
+    "EnglishName": "Santiago",
+    "HebrewName": "סנטיאגו דה צ'ילה",
+    "Population": 5561000,
+    "AreaKM2": 595.49,
+    "Density": 9338.53,
+    "Latitude": -33.270000
+  },
+  {
+    "EnglishName": "Shantou",
+    "HebrewName": "שנטאו",
+    "Population": 5391028,
+    "AreaKM2": 2064.42,
+    "Density": 2611.40,
+    "Latitude": 23.211400
+  },
+  {
+    "EnglishName": "Saint Petersburg",
+    "HebrewName": "סנקט פטרבורג",
+    "Population": 5351000,
+    "AreaKM2": 463.11,
+    "Density": 11554.49,
+    "Latitude": 59.561500
+  },
+  {
+    "EnglishName": "Harbin",
+    "HebrewName": "חרבין",
+    "Population": 5299000,
+    "AreaKM2": 614.31,
+    "Density": 8625.94,
+    "Latitude": 45.450000
+  },
+  {
+    "EnglishName": "Dar es Salaam",
+    "HebrewName": "דאר א-סלאם",
+    "Population": 5257000,
+    "AreaKM2": 330.52,
+    "Density": 15905.24,
+    "Latitude": -6.480000
+  },
+  {
+    "EnglishName": "Yangon",
+    "HebrewName": "יאנגון",
+    "Population": 5214000,
+    "AreaKM2": 598.75,
+    "Density": 8708.14,
+    "Latitude": 16.510000
+  },
+  {
+    "EnglishName": "Johannesburg",
+    "HebrewName": "יוהנסבורג",
+    "Population": 4949000,
+    "AreaKM2": 432.84,
+    "Density": 11433.79,
+    "Latitude": -26.121600
+  },
+  {
+    "EnglishName": "Abidjan",
+    "HebrewName": "אביג'אן",
+    "Population": 4765000,
+    "AreaKM2": 2119.0,
+    "Density": 2248.70,
+    "Latitude": 5.190000
+  },
+  {
+    "EnglishName": "Alexandria",
+    "HebrewName": "אלכסנדריה",
+    "Population": 4616625,
+    "AreaKM2": 2300.0,
+    "Density": 2007.23,
+    "Latitude": 31.120000
+  },
+  {
+    "EnglishName": "Kolkata",
+    "HebrewName": "קולקטה",
+    "Population": 4496694,
+    "AreaKM2": 185.0,
+    "Density": 24306.45,
+    "Latitude": 22.340000
+  },
+  {
+    "EnglishName": "Ankara",
+    "HebrewName": "אנקרה",
+    "Population": 4470800,
+    "AreaKM2": 1910.92,
+    "Density": 2339.61,
+    "Latitude": 39.560000
+  },
+  {
+    "EnglishName": "Surat",
+    "HebrewName": "סוראט",
+    "Population": 4467797,
+    "AreaKM2": 210.20,
+    "Density": 21254.98,
+    "Latitude": 21.1012864
+  },
+  {
+    "EnglishName": "Surat",
+    "HebrewName": "סוראט",
+    "Population": 4467797,
+    "AreaKM2": 336.0,
+    "Density": 13297.01,
+    "Latitude": 21.1012864
+  },
+  {
+    "EnglishName": "Rome Capital",
+    "HebrewName": null,
+    "Population": 4353738,
+    "AreaKM2": 5363.0,
+    "Density": 811.81,
+    "Latitude": 41.533500
+  },
+  {
+    "EnglishName": "Giza",
+    "HebrewName": "גיזה",
+    "Population": 4239988,
+    "AreaKM2": 289.08,
+    "Density": 14667.18,
+    "Latitude": 30.010000
+  },
+  {
+    "EnglishName": "Zhengzhou",
+    "HebrewName": null,
+    "Population": 4122087,
+    "AreaKM2": 1015.66,
+    "Density": 4058.53,
+    "Latitude": 34.455000
+  },
+  {
+    "EnglishName": "Los Angeles",
+    "HebrewName": "לוס אנג'לס",
+    "Population": 3976322,
+    "AreaKM2": 1213.85,
+    "Density": 3275.79,
+    "Latitude": 34.030000
+  },
+  {
+    "EnglishName": "New Taipei City",
+    "HebrewName": "ניו טאיפיי",
+    "Population": 3954929,
+    "AreaKM2": 2052.57,
+    "Density": 1926.82,
+    "Latitude": 25.004000
+  },
+  {
+    "EnglishName": "Cape Town",
+    "HebrewName": "קייפטאון",
+    "Population": 3740026,
+    "AreaKM2": 2444.97,
+    "Density": 1529.68,
+    "Latitude": -33.553100
+  },
+  {
+    "EnglishName": "Yokohama",
+    "HebrewName": "יוקוהמה",
+    "Population": 3726167,
+    "AreaKM2": 437.49,
+    "Density": 8517.15,
+    "Latitude": 35.263900
+  },
+  {
+    "EnglishName": "Berlin",
+    "HebrewName": "ברלין",
+    "Population": 3671000,
+    "AreaKM2": 891.75,
+    "Density": 4116.62,
+    "Latitude": 52.310000
+  },
+  {
+    "EnglishName": "Busan",
+    "HebrewName": "פוסן",
+    "Population": 3590000,
+    "AreaKM2": 347.49,
+    "Density": 10331.23,
+    "Latitude": 35.100000
+  },
+  {
+    "EnglishName": "Xiamen",
+    "HebrewName": "שיאמן",
+    "Population": 3531347,
+    "AreaKM2": 1699.0,
+    "Density": 2078.49,
+    "Latitude": 24.284741
+  },
+  {
+    "EnglishName": "Jeddah",
+    "HebrewName": "ג'דה",
+    "Population": 3456259,
+    "AreaKM2": 1765.0,
+    "Density": 1958.22,
+    "Latitude": 21.323600
+  },
+  {
+    "EnglishName": "Durban",
+    "HebrewName": "דרבן (דרום אפריקה)",
+    "Population": 3442361,
+    "AreaKM2": 2291.31,
+    "Density": 1502.35,
+    "Latitude": -29.530000
+  },
+  {
+    "EnglishName": "Kabul",
+    "HebrewName": "קאבול",
+    "Population": 3414100,
+    "AreaKM2": 275.0,
+    "Density": 12414.91,
+    "Latitude": 34.320000
+  },
+  {
+    "EnglishName": "Casablanca",
+    "HebrewName": "קזבלנקה",
+    "Population": 3359818,
+    "AreaKM2": 230.0,
+    "Density": 14607.90,
+    "Latitude": 33.320000
+  },
+  {
+    "EnglishName": "Hefei",
+    "HebrewName": null,
+    "Population": 3352076,
+    "AreaKM2": 838.52,
+    "Density": 3997.61,
+    "Latitude": 31.520000
+  },
+  {
+    "EnglishName": "Pyongyang",
+    "HebrewName": "פיונגיאנג",
+    "Population": 3255388,
+    "AreaKM2": 2113.0,
+    "Density": 1540.65,
+    "Latitude": 39.110000
+  },
+  {
+    "EnglishName": "Madrid",
+    "HebrewName": "מדריד",
+    "Population": 3207247,
+    "AreaKM2": 605.77,
+    "Density": 5294.50,
+    "Latitude": 40.230000
+  },
+  {
+    "EnglishName": "Faisalabad",
+    "HebrewName": "פייסלאבאד",
+    "Population": 3203846,
+    "AreaKM2": 214.0,
+    "Density": 14971.24,
+    "Latitude": 31.250000
+  },
+  {
+    "EnglishName": "Ekurhuleni",
+    "HebrewName": null,
+    "Population": 3178470,
+    "AreaKM2": 1975.31,
+    "Density": 1609.10,
+    "Latitude": -26.137000
+  },
+  {
+    "EnglishName": "Nairobi",
+    "HebrewName": "ניירובי",
+    "Population": 3138369,
+    "AreaKM2": 694.9,
+    "Density": 4516.29,
+    "Latitude": -1.170000
+  },
+  {
+    "EnglishName": "Zhongshan",
+    "HebrewName": null,
+    "Population": 3121275,
+    "AreaKM2": 1783.67,
+    "Density": 1749.92,
+    "Latitude": 22.310100
+  },
+  {
+    "EnglishName": "Pune",
+    "HebrewName": "פונה",
+    "Population": 3115431,
+    "AreaKM2": 450.69,
+    "Density": 6912.58,
+    "Latitude": 18.311300
+  },
+  {
+    "EnglishName": "Addis Ababa",
+    "HebrewName": "אדיס אבבה",
+    "Population": 3103673,
+    "AreaKM2": 526.99,
+    "Density": 5889.43,
+    "Latitude": 9.148000
+  },
+  {
+    "EnglishName": "Jaipur",
+    "HebrewName": "ג'איפור",
+    "Population": 3073350,
+    "AreaKM2": 485.0,
+    "Density": 6336.80,
+    "Latitude": 26.540000
+  },
+  {
+    "EnglishName": "Buenos Aires",
+    "HebrewName": "בואנוס איירס",
+    "Population": 3054300,
+    "AreaKM2": 203.0,
+    "Density": 15045.81,
+    "Latitude": -34.361200
+  },
+  {
+    "EnglishName": "Wenzhou",
+    "HebrewName": null,
+    "Population": 3039439,
+    "AreaKM2": 1187.88,
+    "Density": 2558.71,
+    "Latitude": 28.000000
+  },
+  {
+    "EnglishName": "Incheon",
+    "HebrewName": "אינצ'ון",
+    "Population": 3002645,
+    "AreaKM2": 328.55,
+    "Density": 9139.08,
+    "Latitude": 37.290000
+  }
+]

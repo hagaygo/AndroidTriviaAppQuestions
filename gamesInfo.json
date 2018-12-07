@@ -9,11 +9,11 @@
         "Name": "Area",
         "QuestionText": "Which country area is larger ?",
         "ValueTextFormat": "{0} km2",
-        "Category" :  "Countries"
+        "Category": "Countries"
       },
       "Hebrew": {
         "Name": "שטח",
-        "QuestionText": "איזה מדינה בעלת שטח גדול יותר ?",
+        "QuestionText": "איזו מדינה בעלת שטח גדול יותר ?",
         "ValueTextFormat": "{0} קמ\"ר",
         "Category": "ארצות"
       }
@@ -30,7 +30,7 @@
       },
       "Hebrew": {
         "Name": "תושבים",
-        "QuestionText": "איזה מדינה בעלת כמות תושבים גדולה יותר ?",
+        "QuestionText": "איזו מדינה בעלת כמות תושבים גדולה יותר ?",
         "Category": "ארצות"
       }
     },
@@ -91,11 +91,11 @@
       "Guid": "{F8111A6E-9DC5-4742-983C-72F7A74C1041}",
       "RawResourceName": "actors",
       "ValueFieldName": "BirthYear",
-      "ValueDelta": "-1900",
+      "ValueDelta": "-1850",
       "ScaleFactor": "1",
       "English": {
         "Name": "Birth year",
-        "QuestionText": "which actor was born later ?",
+        "QuestionText": "Which actor was born later ?",
         "Category": "Actors"
       },
       "Hebrew": {
@@ -125,7 +125,7 @@
       "Guid": "{3E7BD8E6-8788-4903-BA87-5602947585AA}",
       "RawResourceName": "famous",
       "ValueFieldName": "BirthYear",
-      "ValueDelta": "-1200",
+      "ValueDelta": "-1600",
       "ScaleFactor": "1",
       "English": {
         "Name": "Birth year",
@@ -142,6 +142,8 @@
       "Guid": "{551DA849-69E7-4921-B963-9748D4283E9B}",
       "RawResourceName": "famous",
       "ValueFieldName": "DeathYear",
+      "ValueDelta": "-1500",
+      "ScaleFactor": "1",
       "English": {
         "Name": "Death year",
         "QuestionText": "Which person died later ?",
@@ -182,6 +184,76 @@
         "QuestionText": "מי נפטר מבוגר יותר ?",
         "Category": "שחקנים"
       }
+    },
+    {
+      "Guid": "{DD71441E-AF3F-4764-8C4D-73167F734ACB}",
+      "RawResourceName": "cities",
+      "ValueFieldName": "Latitude",
+      "ValueFormat": "Latitude",
+      "ValueDelta": "90",
+      "English": {
+        "Name": "Geography",
+        "QuestionText": "Which city is northmost ?",
+        "Category": "Cities"
+      },
+      "Hebrew": {
+        "Name": "מיקום גאוגרפי",
+        "QuestionText": "איזו עיר צפונית יותר ?",
+        "Category": "ערים"
+      }
+    },
+    {
+      "Guid": "{6535AD35-397F-4C6B-B885-44BD739E51A2}",
+      "RawResourceName": "cities",
+      "ValueFieldName": "Population",
+      "ValueFormat": "#,##0",
+      "English": {
+        "Name": "Population",
+        "QuestionText": "Which city population is larger ?",
+        "Category": "Cities"
+      },
+      "Hebrew": {
+        "Name": "תושבים",
+        "QuestionText": "איזו עיר בעלת כמות תושבים גדולה יותר ?",
+        "Category": "ערים"
+      }
+    },
+    {
+      "Guid": "{552AE25E-3F63-497C-A5E6-830EAD02D05D}",
+      "RawResourceName": "cities",
+      "ValueFieldName": "AreaKM2",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Area",
+        "QuestionText": "Which city area is larger ?",
+        "ValueTextFormat": "{0} km2",
+        "Category": "Cities"
+      },
+      "Hebrew": {
+        "Name": "שטח",
+        "QuestionText": "איזו עיר בעלת שטח גדול יותר ?",
+        "ValueTextFormat": "{0} קמ\"ר",
+        "Category": "ערים"
+      }
+    },
+    {
+      "Guid": "{745584B9-4DF2-47FB-AAA2-500E3AA6AF6E}",
+      "RawResourceName": "cities",
+      "ValueFieldName": "Density",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Population density",
+        "QuestionText": "Which city has higher population density ?",
+        "ValueTextFormat": "{0} pop/km2",
+        "Category": "Cities"
+      },
+      "Hebrew": {
+        "Name": "צפיפות אוכלוסין",
+        "QuestionText": "איזו עיר בעלת צפיפות אוכלסין גדולה יותר ?",
+        "ValueTextFormat": "{0} נפש לקמ\"ר",
+        "Category": "ערים"
+      }
     }
+
   ]
 }

@@ -1,15 +1,27 @@
 [
   {
-    "EnglishName": "Netherlands",
-    "HebrewName": "הולנד",
-    "Population": 17100715,
-    "AreaKM2": 42508.0
+    "EnglishName": "Vatican City",
+    "HebrewName": "קריית הוותיקן",
+    "Population": 1000,
+    "AreaKM2": 0.44
   },
   {
-    "EnglishName": "Liechtenstein",
-    "HebrewName": "ליכטנשטיין",
-    "Population": 38111,
-    "AreaKM2": 160.0
+    "EnglishName": "Monaco",
+    "HebrewName": "מונקו",
+    "Population": 38400,
+    "AreaKM2": 2.02
+  },
+  {
+    "EnglishName": "Nauru",
+    "HebrewName": "נאורו",
+    "Population": 11200,
+    "AreaKM2": 21
+  },
+  {
+    "EnglishName": "Tuvalu",
+    "HebrewName": "טובאלו",
+    "Population": 11192,
+    "AreaKM2": 26
   },
   {
     "EnglishName": "San Marino",
@@ -18,466 +30,10 @@
     "AreaKM2": 61.2
   },
   {
-    "EnglishName": "Ecuador",
-    "HebrewName": "אקוודור",
-    "Population": 16385068,
-    "AreaKM2": 283561.0
-  },
-  {
-    "EnglishName": "Afghanistan",
-    "HebrewName": "אפגניסטן",
-    "Population": 34656032,
-    "AreaKM2": 652864.0
-  },
-  {
-    "EnglishName": "Bulgaria",
-    "HebrewName": "בולגריה",
-    "Population": 7050034,
-    "AreaKM2": 110993.6
-  },
-  {
-    "EnglishName": "Iceland",
-    "HebrewName": "איסלנד",
-    "Population": 353070,
-    "AreaKM2": 102775.0
-  },
-  {
-    "EnglishName": "Burkina Faso",
-    "HebrewName": "בורקינה פאסו",
-    "Population": 20107509,
-    "AreaKM2": 274200.0
-  },
-  {
-    "EnglishName": "São Tomé and Príncipe",
-    "HebrewName": "סאו טומה ופרינסיפה",
-    "Population": 199910,
-    "AreaKM2": 1001.0
-  },
-  {
-    "EnglishName": "Albania",
-    "HebrewName": "אלבניה",
-    "Population": 2876591,
-    "AreaKM2": 28748.0
-  },
-  {
-    "EnglishName": "Tonga",
-    "HebrewName": "טונגה",
-    "Population": 100651,
-    "AreaKM2": 748.0
-  },
-  {
-    "EnglishName": "India",
-    "HebrewName": "הודו",
-    "Population": 1324171354,
-    "AreaKM2": 3287263.0
-  },
-  {
-    "EnglishName": "Lithuania",
-    "HebrewName": "ליטא",
-    "Population": 2800667,
-    "AreaKM2": 65300.0
-  },
-  {
-    "EnglishName": "Egypt",
-    "HebrewName": "מצרים",
-    "Population": 94798827,
-    "AreaKM2": 1010408.0
-  },
-  {
-    "EnglishName": "New Zealand",
-    "HebrewName": "ניו זילנד",
-    "Population": 4915480,
-    "AreaKM2": 268021.0
-  },
-  {
-    "EnglishName": "Burundi",
-    "HebrewName": "בורונדי",
-    "Population": 10524117,
-    "AreaKM2": 27834.0
-  },
-  {
-    "EnglishName": "Saudi Arabia",
-    "HebrewName": "ערב הסעודית",
-    "Population": 33000000,
-    "AreaKM2": 2149690.0
-  },
-  {
-    "EnglishName": "Trinidad and Tobago",
-    "HebrewName": "טרינידד וטובגו",
-    "Population": 1353895,
-    "AreaKM2": 5131.0
-  },
-  {
-    "EnglishName": "Algeria",
-    "HebrewName": "אלג'יריה",
-    "Population": 42200000,
-    "AreaKM2": 2381741.0
-  },
-  {
-    "EnglishName": "El Salvador",
-    "HebrewName": "אל סלוודור",
-    "Population": 6344722,
-    "AreaKM2": 21041.0
-  },
-  {
-    "EnglishName": "Luxembourg",
-    "HebrewName": "לוקסמבורג",
-    "Population": 602005,
-    "AreaKM2": 2586.4
-  },
-  {
-    "EnglishName": "Indonesia",
-    "HebrewName": "אינדונזיה",
-    "Population": 261115456,
-    "AreaKM2": 1904569.0
-  },
-  {
-    "EnglishName": "Nicaragua",
-    "HebrewName": "ניקרגואה",
-    "Population": 6167237,
-    "AreaKM2": 130375.0
-  },
-  {
-    "EnglishName": "Senegal",
-    "HebrewName": "סנגל",
-    "Population": 15411614,
-    "AreaKM2": 196712.0
-  },
-  {
-    "EnglishName": "Cambodia",
-    "HebrewName": "קמבודיה",
-    "Population": 16245729,
-    "AreaKM2": 181035.0
-  },
-  {
-    "EnglishName": "Equatorial Guinea",
-    "HebrewName": "גינאה המשוונית",
-    "Population": 1221490,
-    "AreaKM2": 28050.0
-  },
-  {
-    "EnglishName": "Tunisia",
-    "HebrewName": "תוניסיה",
-    "Population": 11304482,
-    "AreaKM2": 163610.0
-  },
-  {
-    "EnglishName": "Niger",
-    "HebrewName": "ניז'ר",
-    "Population": 20672987,
-    "AreaKM2": 1267000.0
-  },
-  {
-    "EnglishName": "Macedonia",
-    "HebrewName": "מקדוניה",
-    "Population": 2103721,
-    "AreaKM2": 25713.0
-  },
-  {
-    "EnglishName": "Andorra",
-    "HebrewName": "אנדורה",
-    "Population": 77281,
-    "AreaKM2": 467.63
-  },
-  {
-    "EnglishName": "Iran",
-    "HebrewName": "איראן",
-    "Population": 81672300,
-    "AreaKM2": 1648195.0
-  },
-  {
-    "EnglishName": "Cameroon",
-    "HebrewName": "קמרון",
-    "Population": 23439189,
-    "AreaKM2": 475442.0
-  },
-  {
-    "EnglishName": "Serbia",
-    "HebrewName": "סרביה",
-    "Population": 7001444,
-    "AreaKM2": 77474
-  },
-  {
-    "EnglishName": "Eritrea",
-    "HebrewName": "אריתריאה",
-    "Population": 4954645,
-    "AreaKM2": 117600.0
-  },
-  {
-    "EnglishName": "Turkey",
-    "HebrewName": "טורקיה",
-    "Population": 80810525,
-    "AreaKM2": 783356.0
-  },
-  {
-    "EnglishName": "Angola",
-    "HebrewName": "אנגולה",
-    "Population": 25789024,
-    "AreaKM2": 1246700.0
-  },
-  {
-    "EnglishName": "Madagascar",
-    "HebrewName": "מדגסקר",
-    "Population": 24894551,
-    "AreaKM2": 587041.0
-  },
-  {
-    "EnglishName": "Nigeria",
-    "HebrewName": "ניגריה",
-    "Population": 190886311,
-    "AreaKM2": 923768.0
-  },
-  {
-    "EnglishName": "Iraq",
-    "HebrewName": "עיראק",
-    "Population": 37202572,
-    "AreaKM2": 437072.0
-  },
-  {
-    "EnglishName": "Turkmenistan",
-    "HebrewName": "טורקמניסטן",
-    "Population": 5662544,
-    "AreaKM2": 491210.0
-  },
-  {
-    "EnglishName": "Antigua and Barbuda",
-    "HebrewName": "אנטיגואה וברבודה",
-    "Population": 100963,
-    "AreaKM2": 440.0
-  },
-  {
-    "EnglishName": "Estonia",
-    "HebrewName": "אסטוניה",
-    "Population": 1319133,
-    "AreaKM2": 45227.0
-  },
-  {
-    "EnglishName": "Malawi",
-    "HebrewName": "מלאווי",
-    "Population": 18091575,
-    "AreaKM2": 118484.0
-  },
-  {
-    "EnglishName": "Ireland",
-    "HebrewName": "אירלנד",
-    "Population": 4857000,
-    "AreaKM2": 70273.0
-  },
-  {
-    "EnglishName": "Norway",
-    "HebrewName": "נורווגיה",
-    "Population": 5312343,
-    "AreaKM2": 385203.0
-  },
-  {
-    "EnglishName": "Seychelles",
-    "HebrewName": "סיישל",
-    "Population": 94228,
-    "AreaKM2": 459.0
-  },
-  {
-    "EnglishName": "Eswatini",
-    "HebrewName": "סווזילנד",
-    "Population": 1343098,
-    "AreaKM2": 17364.0
-  },
-  {
-    "EnglishName": "Tuvalu",
-    "HebrewName": "טובאלו",
-    "Population": 11192,
-    "AreaKM2": 26.0
-  },
-  {
-    "EnglishName": "Argentina",
-    "HebrewName": "ארגנטינה",
-    "Population": 43847430,
-    "AreaKM2": 2780400.0
-  },
-  {
-    "EnglishName": "Malaysia",
-    "HebrewName": "מלזיה",
-    "Population": 32049700,
-    "AreaKM2": 330803.0
-  },
-  {
-    "EnglishName": "Canada",
-    "HebrewName": "קנדה",
-    "Population": 37067011,
-    "AreaKM2": 9984670.0
-  },
-  {
-    "EnglishName": "Oman",
-    "HebrewName": "עומאן",
-    "Population": 4424762,
-    "AreaKM2": 309500.0
-  },
-  {
-    "EnglishName": "Ethiopia",
-    "HebrewName": "אתיופיה",
-    "Population": 102403196,
-    "AreaKM2": 1104300.0
-  },
-  {
-    "EnglishName": "Israel",
-    "HebrewName": "ישראל",
-    "Population": 8938750,
-    "AreaKM2": 20770.0
-  },
-  {
-    "EnglishName": "Sierra Leone",
-    "HebrewName": "סיירה לאון",
-    "Population": 7075641,
-    "AreaKM2": 71740.0
-  },
-  {
-    "EnglishName": "Uganda",
-    "HebrewName": "אוגנדה",
-    "Population": 41487965,
-    "AreaKM2": 241038.0
-  },
-  {
-    "EnglishName": "Cape Verde",
-    "HebrewName": "כף ורדה",
-    "Population": 539560,
-    "AreaKM2": 4033.0
-  },
-  {
-    "EnglishName": "Armenia",
-    "HebrewName": "ארמניה",
-    "Population": 2924816,
-    "AreaKM2": 29743.0
-  },
-  {
-    "EnglishName": "Maldives",
-    "HebrewName": "האיים המלדיביים",
-    "Population": 427756,
-    "AreaKM2": 298.0
-  },
-  {
-    "EnglishName": "Pakistan",
-    "HebrewName": "פקיסטן",
-    "Population": 212742631,
-    "AreaKM2": 881913.0
-  },
-  {
-    "EnglishName": "Fiji",
-    "HebrewName": "פיג'י",
-    "Population": 912241,
-    "AreaKM2": 18274.0
-  },
-  {
-    "EnglishName": "Italy",
-    "HebrewName": "איטליה",
-    "Population": 60483973,
-    "AreaKM2": 301340.0
-  },
-  {
-    "EnglishName": "Singapore",
-    "HebrewName": "סינגפור",
-    "Population": 5612300,
-    "AreaKM2": 722.5
-  },
-  {
-    "EnglishName": "Mali",
-    "HebrewName": "מאלי",
-    "Population": 14517176,
-    "AreaKM2": 1240192.0
-  },
-  {
-    "EnglishName": "Australia",
-    "HebrewName": "אוסטרליה",
-    "Population": 25110100,
-    "AreaKM2": 7692024.0
-  },
-  {
-    "EnglishName": "Palau",
-    "HebrewName": "פלאו",
-    "Population": 21503,
-    "AreaKM2": 459.0
-  },
-  {
-    "EnglishName": "Finland",
-    "HebrewName": "פינלנד",
-    "Population": 5520535,
-    "AreaKM2": 338424.0
-  },
-  {
-    "EnglishName": "Ukraine",
-    "HebrewName": "אוקראינה",
-    "Population": 42418235,
-    "AreaKM2": 603628.0
-  },
-  {
-    "EnglishName": "Ivory Coast",
-    "HebrewName": "חוף השנהב",
-    "Population": 23740424,
-    "AreaKM2": 322463.0
-  },
-  {
-    "EnglishName": "Austria",
-    "HebrewName": "אוסטריה",
-    "Population": 8823054,
-    "AreaKM2": 83879.0
-  },
-  {
-    "EnglishName": "Palestine",
-    "HebrewName": "מדינה פלסטינית",
-    "Population": 4816503,
-    "AreaKM2": 6020.0
-  },
-  {
-    "EnglishName": "Malta",
-    "HebrewName": "מלטה",
-    "Population": 475700,
-    "AreaKM2": 316.0
-  },
-  {
-    "EnglishName": "Central African Republic",
-    "HebrewName": "הרפובליקה המרכז-אפריקאית",
-    "Population": 4594621,
-    "AreaKM2": 622984.0
-  },
-  {
-    "EnglishName": "Slovakia",
-    "HebrewName": "סלובקיה",
-    "Population": 5445087,
-    "AreaKM2": 49035.0
-  },
-  {
-    "EnglishName": "United Arab Emirates",
-    "HebrewName": "איחוד האמירויות הערביות",
-    "Population": 9582340,
-    "AreaKM2": 83600.0
-  },
-  {
-    "EnglishName": "France",
-    "HebrewName": "צרפת",
-    "Population": 67348000,
-    "AreaKM2": 640679.0
-  },
-  {
-    "EnglishName": "Jamaica",
-    "HebrewName": "ג'מייקה",
-    "Population": 2890299,
-    "AreaKM2": 10991.0
-  },
-  {
-    "EnglishName": "Chad",
-    "HebrewName": "צ'אד",
-    "Population": 13670084,
-    "AreaKM2": 1284000.0
-  },
-  {
-    "EnglishName": "Panama",
-    "HebrewName": "פנמה",
-    "Population": 4034119,
-    "AreaKM2": 75417.0
-  },
-  {
-    "EnglishName": "Slovenia",
-    "HebrewName": "סלובניה",
-    "Population": 2067284,
-    "AreaKM2": 20273.0
+    "EnglishName": "Liechtenstein",
+    "HebrewName": "ליכטנשטיין",
+    "Population": 38111,
+    "AreaKM2": 160
   },
   {
     "EnglishName": "Marshall Islands",
@@ -486,706 +42,16 @@
     "AreaKM2": 181.43
   },
   {
-    "EnglishName": "Azerbaijan",
-    "HebrewName": "אזרבייג'ן",
-    "Population": 9898100,
-    "AreaKM2": 86600.0
-  },
-  {
-    "EnglishName": "Gabon",
-    "HebrewName": "גבון",
-    "Population": 1979786,
-    "AreaKM2": 267667.0
-  },
-  {
-    "EnglishName": "United Kingdom",
-    "HebrewName": "בריטניה",
-    "Population": 66040229,
-    "AreaKM2": 242495.0
-  },
-  {
-    "EnglishName": "Chile",
-    "HebrewName": "צ'ילה",
-    "Population": 17574003,
-    "AreaKM2": 756096.3
-  },
-  {
-    "EnglishName": "Japan",
-    "HebrewName": "יפן",
-    "Population": 126440000,
-    "AreaKM2": 377973.0
-  },
-  {
-    "EnglishName": "Solomon Islands",
-    "HebrewName": "איי שלמה",
-    "Population": 599419,
-    "AreaKM2": 28400.0
-  },
-  {
-    "EnglishName": "Gambia, The",
-    "HebrewName": "גמביה",
-    "Population": 2051363,
-    "AreaKM2": 10689.0
-  },
-  {
-    "EnglishName": "Mauritania",
-    "HebrewName": "מאוריטניה",
-    "Population": 4301018,
-    "AreaKM2": 1030000.0
-  },
-  {
-    "EnglishName": "Bahamas, The",
-    "HebrewName": "איי בהאמה",
-    "Population": 391232,
-    "AreaKM2": 13878.0
-  },
-  {
-    "EnglishName": "Papua New Guinea",
-    "HebrewName": "פפואה גינאה החדשה",
-    "Population": 8084999,
-    "AreaKM2": 462840.0
-  },
-  {
-    "EnglishName": "United States",
-    "HebrewName": "ארצות הברית",
-    "Population": 325719178,
-    "AreaKM2": 9833520.0
-  },
-  {
-    "EnglishName": "Somalia",
-    "HebrewName": "סומליה",
-    "Population": 11031386,
-    "AreaKM2": 637657.0
-  },
-  {
-    "EnglishName": "Paraguay",
-    "HebrewName": "פרגוואי",
-    "Population": 7052984,
-    "AreaKM2": 406752.0
-  },
-  {
-    "EnglishName": "Mauritius",
-    "HebrewName": "מאוריציוס",
-    "Population": 1262132,
-    "AreaKM2": 2040.0
-  },
-  {
-    "EnglishName": "Georgia",
-    "HebrewName": "גאורגיה",
-    "Population": 3718200,
-    "AreaKM2": 69700.0
-  },
-  {
-    "EnglishName": "China",
-    "HebrewName": "הרפובליקה העממית של סין",
-    "Population": 1403500365,
-    "AreaKM2": 9596961.0
-  },
-  {
-    "EnglishName": "Bahrain",
-    "HebrewName": "בחריין",
-    "Population": 1425171,
-    "AreaKM2": 765.3
-  },
-  {
-    "EnglishName": "Uruguay",
-    "HebrewName": "אורוגוואי",
-    "Population": 3444006,
-    "AreaKM2": 176215.0
-  },
-  {
-    "EnglishName": "Jordan",
-    "HebrewName": "ירדן",
-    "Population": 10171480,
-    "AreaKM2": 89342.0
-  },
-  {
-    "EnglishName": "South Africa",
-    "HebrewName": "דרום אפריקה",
-    "Population": 57725600,
-    "AreaKM2": 1221037.0
-  },
-  {
-    "EnglishName": "Peru",
-    "HebrewName": "פרו",
-    "Population": 32162184,
-    "AreaKM2": 1285216.0
-  },
-  {
-    "EnglishName": "Uzbekistan",
-    "HebrewName": "אוזבקיסטן",
-    "Population": 32979000,
-    "AreaKM2": 448978.0
-  },
-  {
-    "EnglishName": "Kazakhstan",
-    "HebrewName": "קזחסטן",
-    "Population": 18311700,
-    "AreaKM2": 2724900.0
-  },
-  {
-    "EnglishName": "Bangladesh",
-    "HebrewName": "בנגלדש",
-    "Population": 162951560,
-    "AreaKM2": 147570.0
-  },
-  {
-    "EnglishName": "Colombia",
-    "HebrewName": "קולומביה",
-    "Population": 49996445,
-    "AreaKM2": 1141748.0
-  },
-  {
-    "EnglishName": "Mexico",
-    "HebrewName": "מקסיקו",
-    "Population": 123675325,
-    "AreaKM2": 1972550.0
-  },
-  {
-    "EnglishName": "South Sudan",
-    "HebrewName": "דרום סודאן",
-    "Population": 12230730,
-    "AreaKM2": 619745.0
-  },
-  {
-    "EnglishName": "Germany",
-    "HebrewName": "גרמניה",
-    "Population": 82800000,
-    "AreaKM2": 357386.0
-  },
-  {
-    "EnglishName": "Philippines",
-    "HebrewName": "הפיליפינים",
-    "Population": 100981437,
-    "AreaKM2": 300000.0
-  },
-  {
-    "EnglishName": "Vanuatu",
-    "HebrewName": "ונואטו",
-    "Population": 270402,
-    "AreaKM2": 12189.0
-  },
-  {
-    "EnglishName": "Barbados",
-    "HebrewName": "ברבדוס",
-    "Population": 277821,
-    "AreaKM2": 439.0
-  },
-  {
-    "EnglishName": "Comoros",
-    "HebrewName": "קומורו",
-    "Population": 795601,
-    "AreaKM2": 1862.0
-  },
-  {
-    "EnglishName": "Micronesia",
-    "HebrewName": "מיקרונזיה",
-    "Population": 104937,
-    "AreaKM2": 702.0
-  },
-  {
-    "EnglishName": "Kenya",
-    "HebrewName": "קניה",
-    "Population": 49125325,
-    "AreaKM2": 580367.0
-  },
-  {
-    "EnglishName": "Spain",
-    "HebrewName": "ספרד",
-    "Population": 46710000,
-    "AreaKM2": 505990.0
-  },
-  {
-    "EnglishName": "Ghana",
-    "HebrewName": "גאנה",
-    "Population": 28308301,
-    "AreaKM2": 239567.0
-  },
-  {
-    "EnglishName": "Vatican City",
-    "HebrewName": "קריית הוותיקן",
-    "Population": 1000,
-    "AreaKM2": 0.44
-  },
-  {
-    "EnglishName": "Poland",
-    "HebrewName": "פולין",
-    "Population": 38433600,
-    "AreaKM2": 312696.0
-  },
-  {
-    "EnglishName": "Congo, Democratic Republic of the",
-    "HebrewName": "הרפובליקה הדמוקרטית של קונגו",
-    "Population": 78736153,
-    "AreaKM2": 2345409.0
-  },
-  {
-    "EnglishName": "Belarus",
-    "HebrewName": "בלארוס",
-    "Population": 9491800,
-    "AreaKM2": 207595.0
-  },
-  {
-    "EnglishName": "Kiribati",
-    "HebrewName": "קיריבטי",
-    "Population": 110136,
-    "AreaKM2": 811.0
-  },
-  {
-    "EnglishName": "Sri Lanka",
-    "HebrewName": "סרי לנקה",
-    "Population": 21670000,
-    "AreaKM2": 65610.0
-  },
-  {
-    "EnglishName": "Greece",
-    "HebrewName": "יוון",
-    "Population": 10768477,
-    "AreaKM2": 131957.0
-  },
-  {
-    "EnglishName": "Congo, Republic of the",
-    "HebrewName": "הרפובליקה של קונגו",
-    "Population": 5125821,
-    "AreaKM2": 342000.0
-  },
-  {
-    "EnglishName": "Portugal",
-    "HebrewName": "פורטוגל",
-    "Population": 10291027,
-    "AreaKM2": 92212.0
-  },
-  {
-    "EnglishName": "Korea, North",
-    "HebrewName": "קוריאה הצפונית",
-    "Population": 25368620,
-    "AreaKM2": 120540.0
-  },
-  {
-    "EnglishName": "Venezuela",
-    "HebrewName": "ונצואלה",
-    "Population": 31568179,
-    "AreaKM2": 916445.0
-  },
-  {
-    "EnglishName": "Belgium",
-    "HebrewName": "בלגיה",
-    "Population": 11420163,
-    "AreaKM2": 30528.0
-  },
-  {
-    "EnglishName": "Grenada",
-    "HebrewName": "גרנדה",
-    "Population": 107317,
-    "AreaKM2": 348.5
-  },
-  {
-    "EnglishName": "Sudan",
-    "HebrewName": "סודאן",
-    "Population": 39578828,
-    "AreaKM2": 1886068.0
-  },
-  {
-    "EnglishName": "Costa Rica",
-    "HebrewName": "קוסטה ריקה",
-    "Population": 4857274,
-    "AreaKM2": 51100.0
-  },
-  {
-    "EnglishName": "Moldova",
-    "HebrewName": "מולדובה",
-    "Population": 3350900,
-    "AreaKM2": 33846
-  },
-  {
-    "EnglishName": "Belize",
-    "HebrewName": "בליז",
-    "Population": 387879,
-    "AreaKM2": 22966.0
-  },
-  {
-    "EnglishName": "Suriname",
-    "HebrewName": "סורינאם",
-    "Population": 558368,
-    "AreaKM2": 163821.0
-  },
-  {
-    "EnglishName": "Vietnam",
-    "HebrewName": "וייטנאם",
-    "Population": 94569072,
-    "AreaKM2": 331212.0
-  },
-  {
-    "EnglishName": "Qatar",
-    "HebrewName": "קטר (מדינה)",
-    "Population": 2641669,
-    "AreaKM2": 11581.0
-  },
-  {
-    "EnglishName": "Korea, South",
-    "HebrewName": "קוריאה הדרומית",
-    "Population": 51446201,
-    "AreaKM2": 100363.0
-  },
-  {
-    "EnglishName": "Guatemala",
-    "HebrewName": "גואטמלה",
-    "Population": 17263239,
-    "AreaKM2": 108889.0
-  },
-  {
-    "EnglishName": "Monaco",
-    "HebrewName": "מונקו",
-    "Population": 38400,
-    "AreaKM2": 2.020
-  },
-  {
-    "EnglishName": "Croatia",
-    "HebrewName": "קרואטיה",
-    "Population": 4154200,
-    "AreaKM2": 56594.0
-  },
-  {
-    "EnglishName": "Benin",
-    "HebrewName": "בנין",
-    "Population": 10872298,
-    "AreaKM2": 114763.0
-  },
-  {
-    "EnglishName": "Sweden",
-    "HebrewName": "שוודיה",
-    "Population": 10196177,
-    "AreaKM2": 450295.0
-  },
-  {
-    "EnglishName": "Yemen",
-    "HebrewName": "תימן",
-    "Population": 27584213,
-    "AreaKM2": 527968.0
-  },
-  {
-    "EnglishName": "Guinea",
-    "HebrewName": "גינאה",
-    "Population": 12395924,
-    "AreaKM2": 245836.0
-  },
-  {
-    "EnglishName": "Mongolia",
-    "HebrewName": "מונגוליה",
-    "Population": 3081677,
-    "AreaKM2": 1566000.0
-  },
-  {
-    "EnglishName": "Kuwait",
-    "HebrewName": "כווית",
-    "Population": 4052584,
-    "AreaKM2": 17818.0
-  },
-  {
-    "EnglishName": "Romania",
-    "HebrewName": "רומניה",
-    "Population": 19638000,
-    "AreaKM2": 238397.0
-  },
-  {
-    "EnglishName": "Cuba",
-    "HebrewName": "קובה",
-    "Population": 11221060,
-    "AreaKM2": 109884.0
-  },
-  {
-    "EnglishName": "Zambia",
-    "HebrewName": "זמביה",
-    "Population": 16591390,
-    "AreaKM2": 752618.0
-  },
-  {
-    "EnglishName": "Guinea-Bissau",
-    "HebrewName": "גינאה ביסאו",
-    "Population": 1815698,
-    "AreaKM2": 36125.0
-  },
-  {
-    "EnglishName": "Switzerland",
-    "HebrewName": "שווייץ",
-    "Population": 8508898,
-    "AreaKM2": 41285.0
-  },
-  {
-    "EnglishName": "Montenegro",
-    "HebrewName": "מונטנגרו",
-    "Population": 642550,
-    "AreaKM2": 13812.0
-  },
-  {
-    "EnglishName": "Kyrgyzstan",
-    "HebrewName": "קירגיזסטן",
-    "Population": 6019480,
-    "AreaKM2": 199951.0
-  },
-  {
-    "EnglishName": "Cyprus",
-    "HebrewName": "קפריסין",
-    "Population": 1170125,
-    "AreaKM2": 9251.0
-  },
-  {
-    "EnglishName": "Russia",
-    "HebrewName": "רוסיה",
-    "Population": 144526636,
-    "AreaKM2": 17098246.0
-  },
-  {
-    "EnglishName": "Syria",
-    "HebrewName": "סוריה",
-    "Population": 18284407,
-    "AreaKM2": 185180.0
-  },
-  {
-    "EnglishName": "Guyana",
-    "HebrewName": "גיאנה",
-    "Population": 773303,
-    "AreaKM2": 214970.0
-  },
-  {
-    "EnglishName": "Zimbabwe",
-    "HebrewName": "זימבבואה",
-    "Population": 16150362,
-    "AreaKM2": 390757.0
-  },
-  {
-    "EnglishName": "Bhutan",
-    "HebrewName": "בהוטן",
-    "Population": 797765,
-    "AreaKM2": 38394.0
-  },
-  {
-    "EnglishName": "Laos",
-    "HebrewName": "לאוס",
-    "Population": 6758353,
-    "AreaKM2": 237955.0
-  },
-  {
-    "EnglishName": "Morocco",
-    "HebrewName": "מרוקו",
-    "Population": 35740000,
-    "AreaKM2": 710850.0
-  },
-  {
-    "EnglishName": "Rwanda",
-    "HebrewName": "רואנדה",
-    "Population": 11262564,
-    "AreaKM2": 26338.0
-  },
-  {
-    "EnglishName": "Czech Republic",
-    "HebrewName": "צ'כיה",
-    "Population": 10610947,
-    "AreaKM2": 78866.0
-  },
-  {
-    "EnglishName": "Tajikistan",
-    "HebrewName": "טג'יקיסטן",
-    "Population": 8734951,
-    "AreaKM2": 143100.0
-  },
-  {
-    "EnglishName": "Abkhazia",
-    "HebrewName": "אבחזיה",
-    "Population": 243206,
-    "AreaKM2": 8660.0
-  },
-  {
-    "EnglishName": "Latvia",
-    "HebrewName": "לטביה",
-    "Population": 1925800,
-    "AreaKM2": 64589.0
-  },
-  {
-    "EnglishName": "Bolivia",
-    "HebrewName": "בוליביה",
-    "Population": 11248864,
-    "AreaKM2": 1098581.0
-  },
-  {
-    "EnglishName": "Mozambique",
-    "HebrewName": "מוזמביק",
-    "Population": 28829476,
-    "AreaKM2": 801590.0
-  },
-  {
-    "EnglishName": "Saint Kitts and Nevis",
-    "HebrewName": "סנט קיטס ונוויס",
-    "Population": 54821,
-    "AreaKM2": 261.0
-  },
-  {
-    "EnglishName": "Haiti",
-    "HebrewName": "האיטי",
-    "Population": 10847334,
-    "AreaKM2": 27750.0
-  },
-  {
-    "EnglishName": "Denmark",
-    "HebrewName": "דנמרק",
-    "Population": 5789957,
-    "AreaKM2": 42933
-  },
-  {
-    "EnglishName": "Tanzania",
-    "HebrewName": "טנזניה",
-    "Population": 55572201,
-    "AreaKM2": 947303.0
-  },
-  {
-    "EnglishName": "Lebanon",
-    "HebrewName": "לבנון",
-    "Population": 6006668,
-    "AreaKM2": 10452.0
-  },
-  {
-    "EnglishName": "Bosnia and Herzegovina",
-    "HebrewName": "בוסניה והרצגובינה",
-    "Population": 3511372,
-    "AreaKM2": 51129.0
-  },
-  {
-    "EnglishName": "Saint Lucia",
-    "HebrewName": "סנט לוסיה",
-    "Population": 178015,
-    "AreaKM2": 617.0
-  },
-  {
-    "EnglishName": "Myanmar",
-    "HebrewName": "מיאנמר",
-    "Population": 53582855,
-    "AreaKM2": 676578.0
-  },
-  {
-    "EnglishName": "Honduras",
-    "HebrewName": "הונדורס",
-    "Population": 9112867,
-    "AreaKM2": 112492.0
-  },
-  {
-    "EnglishName": "Artsakh",
-    "HebrewName": "נגורנו קרבאך",
-    "Population": 150932,
-    "AreaKM2": 11458.0
-  },
-  {
-    "EnglishName": "Djibouti",
-    "HebrewName": "ג'יבוטי",
-    "Population": 942333,
-    "AreaKM2": 23200.0
-  },
-  {
-    "EnglishName": "Thailand",
-    "HebrewName": "תאילנד",
-    "Population": 68863514,
-    "AreaKM2": 513120.0
-  },
-  {
-    "EnglishName": "Lesotho",
-    "HebrewName": "לסוטו",
-    "Population": 2203821,
-    "AreaKM2": 30355.0
-  },
-  {
-    "EnglishName": "Botswana",
-    "HebrewName": "בוטסואנה",
-    "Population": 2250260,
-    "AreaKM2": 581730.0
-  },
-  {
-    "EnglishName": "Saint Vincent and the Grenadines",
-    "HebrewName": "סנט וינסנט והגרנדינים",
-    "Population": 109643,
-    "AreaKM2": 389.0
-  },
-  {
     "EnglishName": "Cook Islands",
     "HebrewName": "איי קוק",
     "Population": 17379,
     "AreaKM2": 236.7
   },
   {
-    "EnglishName": "Namibia",
-    "HebrewName": "נמיביה",
-    "Population": 2606971,
-    "AreaKM2": 825615.0
-  },
-  {
-    "EnglishName": "Hungary",
-    "HebrewName": "הונגריה",
-    "Population": 9797561,
-    "AreaKM2": 93030.0
-  },
-  {
-    "EnglishName": "Dominica",
-    "HebrewName": "דומיניקה",
-    "Population": 73543,
-    "AreaKM2": 750.0
-  },
-  {
-    "EnglishName": "Togo",
-    "HebrewName": "טוגו",
-    "Population": 7965055,
-    "AreaKM2": 56785.0
-  },
-  {
-    "EnglishName": "Samoa",
-    "HebrewName": "סמואה",
-    "Population": 195843,
-    "AreaKM2": 2842.0
-  },
-  {
-    "EnglishName": "Liberia",
-    "HebrewName": "ליבריה",
-    "Population": 4503000,
-    "AreaKM2": 111369.0
-  },
-  {
-    "EnglishName": "Nauru",
-    "HebrewName": "נאורו",
-    "Population": 11200,
-    "AreaKM2": 21.0
-  },
-  {
-    "EnglishName": "Kosovo",
-    "HebrewName": "קוסובו",
-    "Population": 1920079,
-    "AreaKM2": 10908.0
-  },
-  {
-    "EnglishName": "Northern Cyprus",
-    "HebrewName": "צפון קפריסין",
-    "Population": 32600,
-    "AreaKM2": 3355.0
-  },
-  {
-    "EnglishName": "Brazil",
-    "HebrewName": "ברזיל",
-    "Population": 210147125,
-    "AreaKM2": 8515767.0
-  },
-  {
-    "EnglishName": "Dominican Republic",
-    "HebrewName": "הרפובליקה הדומיניקנית",
-    "Population": 10735896,
-    "AreaKM2": 78315.0
-  },
-  {
-    "EnglishName": "Libya",
-    "HebrewName": "לוב",
-    "Population": 6653210,
-    "AreaKM2": 1759541.0
-  },
-  {
-    "EnglishName": "Sahrawi Arab Democratic Republic",
-    "HebrewName": "רפובליקת סהרה הערבית הדמוקרטית",
-    "Population": 100000,
-    "AreaKM2": 266000.0
+    "EnglishName": "Saint Kitts and Nevis",
+    "HebrewName": "סנט קיטס ונוויס",
+    "Population": 54821,
+    "AreaKM2": 261
   },
   {
     "EnglishName": "Niue",
@@ -1194,45 +60,1179 @@
     "AreaKM2": 261.46
   },
   {
-    "EnglishName": "Nepal",
-    "HebrewName": "נפאל",
-    "Population": 28982771,
-    "AreaKM2": 147181.0
+    "EnglishName": "Maldives",
+    "HebrewName": "האיים המלדיביים",
+    "Population": 427756,
+    "AreaKM2": 298
   },
   {
-    "EnglishName": "Brunei",
-    "HebrewName": "ברוניי",
-    "Population": 417200,
-    "AreaKM2": 5765.0
+    "EnglishName": "Malta",
+    "HebrewName": "מלטה",
+    "Population": 475700,
+    "AreaKM2": 316
   },
   {
-    "EnglishName": "East Timor",
-    "HebrewName": "מזרח טימור",
-    "Population": 1167242,
-    "AreaKM2": 15410.0
+    "EnglishName": "Grenada",
+    "HebrewName": "גרנדה",
+    "Population": 107317,
+    "AreaKM2": 348.5
   },
   {
-    "EnglishName": "Somaliland",
-    "HebrewName": "סומלילנד",
-    "Population": 3508180,
-    "AreaKM2": 176120.0
+    "EnglishName": "Saint Vincent and the Grenadines",
+    "HebrewName": "סנט וינסנט והגרנדינים",
+    "Population": 109643,
+    "AreaKM2": 389
+  },
+  {
+    "EnglishName": "Barbados",
+    "HebrewName": "ברבדוס",
+    "Population": 277821,
+    "AreaKM2": 439
+  },
+  {
+    "EnglishName": "Antigua and Barbuda",
+    "HebrewName": "אנטיגואה וברבודה",
+    "Population": 100963,
+    "AreaKM2": 440
+  },
+  {
+    "EnglishName": "Seychelles",
+    "HebrewName": "סיישל",
+    "Population": 94228,
+    "AreaKM2": 459
+  },
+  {
+    "EnglishName": "Palau",
+    "HebrewName": "פלאו",
+    "Population": 21503,
+    "AreaKM2": 459
+  },
+  {
+    "EnglishName": "Andorra",
+    "HebrewName": "אנדורה",
+    "Population": 77281,
+    "AreaKM2": 467.63
+  },
+  {
+    "EnglishName": "Saint Lucia",
+    "HebrewName": "סנט לוסיה",
+    "Population": 178015,
+    "AreaKM2": 617
+  },
+  {
+    "EnglishName": "Micronesia",
+    "HebrewName": "מיקרונזיה",
+    "Population": 104937,
+    "AreaKM2": 702
+  },
+  {
+    "EnglishName": "Singapore",
+    "HebrewName": "סינגפור",
+    "Population": 5612300,
+    "AreaKM2": 722.5
+  },
+  {
+    "EnglishName": "Tonga",
+    "HebrewName": "טונגה",
+    "Population": 100651,
+    "AreaKM2": 748
+  },
+  {
+    "EnglishName": "Dominica",
+    "HebrewName": "דומיניקה",
+    "Population": 73543,
+    "AreaKM2": 750
+  },
+  {
+    "EnglishName": "Bahrain",
+    "HebrewName": "בחריין",
+    "Population": 1425171,
+    "AreaKM2": 765.3
+  },
+  {
+    "EnglishName": "Kiribati",
+    "HebrewName": "קיריבטי",
+    "Population": 110136,
+    "AreaKM2": 811
+  },
+  {
+    "EnglishName": "São Tomé and Príncipe",
+    "HebrewName": "סאו טומה ופרינסיפה",
+    "Population": 199910,
+    "AreaKM2": 1001
+  },
+  {
+    "EnglishName": "Comoros",
+    "HebrewName": "קומורו",
+    "Population": 795601,
+    "AreaKM2": 1862
+  },
+  {
+    "EnglishName": "Mauritius",
+    "HebrewName": "מאוריציוס",
+    "Population": 1262132,
+    "AreaKM2": 2040
+  },
+  {
+    "EnglishName": "Luxembourg",
+    "HebrewName": "לוקסמבורג",
+    "Population": 602005,
+    "AreaKM2": 2586.4
+  },
+  {
+    "EnglishName": "Samoa",
+    "HebrewName": "סמואה",
+    "Population": 195843,
+    "AreaKM2": 2842
+  },
+  {
+    "EnglishName": "Northern Cyprus",
+    "HebrewName": "צפון קפריסין",
+    "Population": 32600,
+    "AreaKM2": 3355
   },
   {
     "EnglishName": "South Ossetia",
     "HebrewName": "דרום אוסטיה",
     "Population": 53532,
-    "AreaKM2": 3900.0
+    "AreaKM2": 3900
   },
   {
-    "EnglishName": "Taiwan",
-    "HebrewName": "טאיוואן",
-    "Population": 23577271,
-    "AreaKM2": 36197.0
+    "EnglishName": "Cape Verde",
+    "HebrewName": "כף ורדה",
+    "Population": 539560,
+    "AreaKM2": 4033
   },
   {
     "EnglishName": "Transnistria",
     "HebrewName": "טרנסניסטריה",
     "Population": 475665,
-    "AreaKM2": 4163.0
+    "AreaKM2": 4163
+  },
+  {
+    "EnglishName": "Trinidad and Tobago",
+    "HebrewName": "טרינידד וטובגו",
+    "Population": 1353895,
+    "AreaKM2": 5131
+  },
+  {
+    "EnglishName": "Brunei",
+    "HebrewName": "ברוניי",
+    "Population": 417200,
+    "AreaKM2": 5765
+  },
+  {
+    "EnglishName": "Palestine",
+    "HebrewName": "מדינה פלסטינית",
+    "Population": 4816503,
+    "AreaKM2": 6020
+  },
+  {
+    "EnglishName": "Abkhazia",
+    "HebrewName": "אבחזיה",
+    "Population": 243206,
+    "AreaKM2": 8660
+  },
+  {
+    "EnglishName": "Cyprus",
+    "HebrewName": "קפריסין",
+    "Population": 1170125,
+    "AreaKM2": 9251
+  },
+  {
+    "EnglishName": "Lebanon",
+    "HebrewName": "לבנון",
+    "Population": 6006668,
+    "AreaKM2": 10452
+  },
+  {
+    "EnglishName": "Gambia, The",
+    "HebrewName": "גמביה",
+    "Population": 2051363,
+    "AreaKM2": 10689
+  },
+  {
+    "EnglishName": "Kosovo",
+    "HebrewName": "קוסובו",
+    "Population": 1920079,
+    "AreaKM2": 10908
+  },
+  {
+    "EnglishName": "Jamaica",
+    "HebrewName": "ג'מייקה",
+    "Population": 2890299,
+    "AreaKM2": 10991
+  },
+  {
+    "EnglishName": "Artsakh",
+    "HebrewName": "נגורנו קרבאך",
+    "Population": 150932,
+    "AreaKM2": 11458
+  },
+  {
+    "EnglishName": "Qatar",
+    "HebrewName": "קטר (מדינה)",
+    "Population": 2641669,
+    "AreaKM2": 11581
+  },
+  {
+    "EnglishName": "Vanuatu",
+    "HebrewName": "ונואטו",
+    "Population": 270402,
+    "AreaKM2": 12189
+  },
+  {
+    "EnglishName": "Montenegro",
+    "HebrewName": "מונטנגרו",
+    "Population": 642550,
+    "AreaKM2": 13812
+  },
+  {
+    "EnglishName": "Bahamas, The",
+    "HebrewName": "איי בהאמה",
+    "Population": 391232,
+    "AreaKM2": 13878
+  },
+  {
+    "EnglishName": "East Timor",
+    "HebrewName": "מזרח טימור",
+    "Population": 1167242,
+    "AreaKM2": 15410
+  },
+  {
+    "EnglishName": "Eswatini",
+    "HebrewName": "סווזילנד",
+    "Population": 1343098,
+    "AreaKM2": 17364
+  },
+  {
+    "EnglishName": "Kuwait",
+    "HebrewName": "כווית",
+    "Population": 4052584,
+    "AreaKM2": 17818
+  },
+  {
+    "EnglishName": "Fiji",
+    "HebrewName": "פיג'י",
+    "Population": 912241,
+    "AreaKM2": 18274
+  },
+  {
+    "EnglishName": "Slovenia",
+    "HebrewName": "סלובניה",
+    "Population": 2067284,
+    "AreaKM2": 20273
+  },
+  {
+    "EnglishName": "Israel",
+    "HebrewName": "ישראל",
+    "Population": 8938750,
+    "AreaKM2": 20770
+  },
+  {
+    "EnglishName": "El Salvador",
+    "HebrewName": "אל סלוודור",
+    "Population": 6344722,
+    "AreaKM2": 21041
+  },
+  {
+    "EnglishName": "Belize",
+    "HebrewName": "בליז",
+    "Population": 387879,
+    "AreaKM2": 22966
+  },
+  {
+    "EnglishName": "Djibouti",
+    "HebrewName": "ג'יבוטי",
+    "Population": 942333,
+    "AreaKM2": 23200
+  },
+  {
+    "EnglishName": "Macedonia",
+    "HebrewName": "מקדוניה",
+    "Population": 2103721,
+    "AreaKM2": 25713
+  },
+  {
+    "EnglishName": "Rwanda",
+    "HebrewName": "רואנדה",
+    "Population": 11262564,
+    "AreaKM2": 26338
+  },
+  {
+    "EnglishName": "Haiti",
+    "HebrewName": "האיטי",
+    "Population": 10847334,
+    "AreaKM2": 27750
+  },
+  {
+    "EnglishName": "Burundi",
+    "HebrewName": "בורונדי",
+    "Population": 10524117,
+    "AreaKM2": 27834
+  },
+  {
+    "EnglishName": "Equatorial Guinea",
+    "HebrewName": "גינאה המשוונית",
+    "Population": 1221490,
+    "AreaKM2": 28050
+  },
+  {
+    "EnglishName": "Solomon Islands",
+    "HebrewName": "איי שלמה",
+    "Population": 599419,
+    "AreaKM2": 28400
+  },
+  {
+    "EnglishName": "Albania",
+    "HebrewName": "אלבניה",
+    "Population": 2876591,
+    "AreaKM2": 28748
+  },
+  {
+    "EnglishName": "Armenia",
+    "HebrewName": "ארמניה",
+    "Population": 2924816,
+    "AreaKM2": 29743
+  },
+  {
+    "EnglishName": "Lesotho",
+    "HebrewName": "לסוטו",
+    "Population": 2203821,
+    "AreaKM2": 30355
+  },
+  {
+    "EnglishName": "Belgium",
+    "HebrewName": "בלגיה",
+    "Population": 11420163,
+    "AreaKM2": 30528
+  },
+  {
+    "EnglishName": "Moldova",
+    "HebrewName": "מולדובה",
+    "Population": 3350900,
+    "AreaKM2": 33846
+  },
+  {
+    "EnglishName": "Guinea-Bissau",
+    "HebrewName": "גינאה ביסאו",
+    "Population": 1815698,
+    "AreaKM2": 36125
+  },
+  {
+    "EnglishName": "Taiwan",
+    "HebrewName": "טאיוואן",
+    "Population": 23577271,
+    "AreaKM2": 36197
+  },
+  {
+    "EnglishName": "Bhutan",
+    "HebrewName": "בהוטן",
+    "Population": 797765,
+    "AreaKM2": 38394
+  },
+  {
+    "EnglishName": "Switzerland",
+    "HebrewName": "שווייץ",
+    "Population": 8508898,
+    "AreaKM2": 41285
+  },
+  {
+    "EnglishName": "Netherlands",
+    "HebrewName": "הולנד",
+    "Population": 17100715,
+    "AreaKM2": 42508
+  },
+  {
+    "EnglishName": "Denmark",
+    "HebrewName": "דנמרק",
+    "Population": 5789957,
+    "AreaKM2": 42933
+  },
+  {
+    "EnglishName": "Estonia",
+    "HebrewName": "אסטוניה",
+    "Population": 1319133,
+    "AreaKM2": 45227
+  },
+  {
+    "EnglishName": "Slovakia",
+    "HebrewName": "סלובקיה",
+    "Population": 5445087,
+    "AreaKM2": 49035
+  },
+  {
+    "EnglishName": "Costa Rica",
+    "HebrewName": "קוסטה ריקה",
+    "Population": 4857274,
+    "AreaKM2": 51100
+  },
+  {
+    "EnglishName": "Bosnia and Herzegovina",
+    "HebrewName": "בוסניה והרצגובינה",
+    "Population": 3511372,
+    "AreaKM2": 51129
+  },
+  {
+    "EnglishName": "Croatia",
+    "HebrewName": "קרואטיה",
+    "Population": 4154200,
+    "AreaKM2": 56594
+  },
+  {
+    "EnglishName": "Togo",
+    "HebrewName": "טוגו",
+    "Population": 7965055,
+    "AreaKM2": 56785
+  },
+  {
+    "EnglishName": "Latvia",
+    "HebrewName": "לטביה",
+    "Population": 1925800,
+    "AreaKM2": 64589
+  },
+  {
+    "EnglishName": "Lithuania",
+    "HebrewName": "ליטא",
+    "Population": 2800667,
+    "AreaKM2": 65300
+  },
+  {
+    "EnglishName": "Sri Lanka",
+    "HebrewName": "סרי לנקה",
+    "Population": 21670000,
+    "AreaKM2": 65610
+  },
+  {
+    "EnglishName": "Georgia",
+    "HebrewName": "גאורגיה",
+    "Population": 3718200,
+    "AreaKM2": 69700
+  },
+  {
+    "EnglishName": "Ireland",
+    "HebrewName": "אירלנד",
+    "Population": 4857000,
+    "AreaKM2": 70273
+  },
+  {
+    "EnglishName": "Sierra Leone",
+    "HebrewName": "סיירה לאון",
+    "Population": 7075641,
+    "AreaKM2": 71740
+  },
+  {
+    "EnglishName": "Panama",
+    "HebrewName": "פנמה",
+    "Population": 4034119,
+    "AreaKM2": 75417
+  },
+  {
+    "EnglishName": "Serbia",
+    "HebrewName": "סרביה",
+    "Population": 7001444,
+    "AreaKM2": 77474
+  },
+  {
+    "EnglishName": "Dominican Republic",
+    "HebrewName": "הרפובליקה הדומיניקנית",
+    "Population": 10735896,
+    "AreaKM2": 78315
+  },
+  {
+    "EnglishName": "Czech Republic",
+    "HebrewName": "צ'כיה",
+    "Population": 10610947,
+    "AreaKM2": 78866
+  },
+  {
+    "EnglishName": "United Arab Emirates",
+    "HebrewName": "איחוד האמירויות הערביות",
+    "Population": 9582340,
+    "AreaKM2": 83600
+  },
+  {
+    "EnglishName": "Austria",
+    "HebrewName": "אוסטריה",
+    "Population": 8823054,
+    "AreaKM2": 83879
+  },
+  {
+    "EnglishName": "Azerbaijan",
+    "HebrewName": "אזרבייג'ן",
+    "Population": 9898100,
+    "AreaKM2": 86600
+  },
+  {
+    "EnglishName": "Jordan",
+    "HebrewName": "ירדן",
+    "Population": 10171480,
+    "AreaKM2": 89342
+  },
+  {
+    "EnglishName": "Portugal",
+    "HebrewName": "פורטוגל",
+    "Population": 10291027,
+    "AreaKM2": 92212
+  },
+  {
+    "EnglishName": "Hungary",
+    "HebrewName": "הונגריה",
+    "Population": 9797561,
+    "AreaKM2": 93030
+  },
+  {
+    "EnglishName": "Korea, South",
+    "HebrewName": "קוריאה הדרומית",
+    "Population": 51446201,
+    "AreaKM2": 100363
+  },
+  {
+    "EnglishName": "Iceland",
+    "HebrewName": "איסלנד",
+    "Population": 353070,
+    "AreaKM2": 102775
+  },
+  {
+    "EnglishName": "Guatemala",
+    "HebrewName": "גואטמלה",
+    "Population": 17263239,
+    "AreaKM2": 108889
+  },
+  {
+    "EnglishName": "Cuba",
+    "HebrewName": "קובה",
+    "Population": 11221060,
+    "AreaKM2": 109884
+  },
+  {
+    "EnglishName": "Bulgaria",
+    "HebrewName": "בולגריה",
+    "Population": 7050034,
+    "AreaKM2": 110993.6
+  },
+  {
+    "EnglishName": "Liberia",
+    "HebrewName": "ליבריה",
+    "Population": 4503000,
+    "AreaKM2": 111369
+  },
+  {
+    "EnglishName": "Honduras",
+    "HebrewName": "הונדורס",
+    "Population": 9112867,
+    "AreaKM2": 112492
+  },
+  {
+    "EnglishName": "Benin",
+    "HebrewName": "בנין",
+    "Population": 10872298,
+    "AreaKM2": 114763
+  },
+  {
+    "EnglishName": "Eritrea",
+    "HebrewName": "אריתריאה",
+    "Population": 4954645,
+    "AreaKM2": 117600
+  },
+  {
+    "EnglishName": "Malawi",
+    "HebrewName": "מלאווי",
+    "Population": 18091575,
+    "AreaKM2": 118484
+  },
+  {
+    "EnglishName": "Korea, North",
+    "HebrewName": "קוריאה הצפונית",
+    "Population": 25368620,
+    "AreaKM2": 120540
+  },
+  {
+    "EnglishName": "Nicaragua",
+    "HebrewName": "ניקרגואה",
+    "Population": 6167237,
+    "AreaKM2": 130375
+  },
+  {
+    "EnglishName": "Greece",
+    "HebrewName": "יוון",
+    "Population": 10768477,
+    "AreaKM2": 131957
+  },
+  {
+    "EnglishName": "Tajikistan",
+    "HebrewName": "טג'יקיסטן",
+    "Population": 8734951,
+    "AreaKM2": 143100
+  },
+  {
+    "EnglishName": "Nepal",
+    "HebrewName": "נפאל",
+    "Population": 28982771,
+    "AreaKM2": 147181
+  },
+  {
+    "EnglishName": "Bangladesh",
+    "HebrewName": "בנגלדש",
+    "Population": 162951560,
+    "AreaKM2": 147570
+  },
+  {
+    "EnglishName": "Tunisia",
+    "HebrewName": "תוניסיה",
+    "Population": 11304482,
+    "AreaKM2": 163610
+  },
+  {
+    "EnglishName": "Suriname",
+    "HebrewName": "סורינאם",
+    "Population": 558368,
+    "AreaKM2": 163821
+  },
+  {
+    "EnglishName": "Somaliland",
+    "HebrewName": "סומלילנד",
+    "Population": 3508180,
+    "AreaKM2": 176120
+  },
+  {
+    "EnglishName": "Uruguay",
+    "HebrewName": "אורוגוואי",
+    "Population": 3444006,
+    "AreaKM2": 176215
+  },
+  {
+    "EnglishName": "Cambodia",
+    "HebrewName": "קמבודיה",
+    "Population": 16245729,
+    "AreaKM2": 181035
+  },
+  {
+    "EnglishName": "Syria",
+    "HebrewName": "סוריה",
+    "Population": 18284407,
+    "AreaKM2": 185180
+  },
+  {
+    "EnglishName": "Senegal",
+    "HebrewName": "סנגל",
+    "Population": 15411614,
+    "AreaKM2": 196712
+  },
+  {
+    "EnglishName": "Kyrgyzstan",
+    "HebrewName": "קירגיזסטן",
+    "Population": 6019480,
+    "AreaKM2": 199951
+  },
+  {
+    "EnglishName": "Belarus",
+    "HebrewName": "בלארוס",
+    "Population": 9491800,
+    "AreaKM2": 207595
+  },
+  {
+    "EnglishName": "Guyana",
+    "HebrewName": "גיאנה",
+    "Population": 773303,
+    "AreaKM2": 214970
+  },
+  {
+    "EnglishName": "Laos",
+    "HebrewName": "לאוס",
+    "Population": 6758353,
+    "AreaKM2": 237955
+  },
+  {
+    "EnglishName": "Romania",
+    "HebrewName": "רומניה",
+    "Population": 19638000,
+    "AreaKM2": 238397
+  },
+  {
+    "EnglishName": "Ghana",
+    "HebrewName": "גאנה",
+    "Population": 28308301,
+    "AreaKM2": 239567
+  },
+  {
+    "EnglishName": "Uganda",
+    "HebrewName": "אוגנדה",
+    "Population": 41487965,
+    "AreaKM2": 241038
+  },
+  {
+    "EnglishName": "United Kingdom",
+    "HebrewName": "בריטניה",
+    "Population": 66040229,
+    "AreaKM2": 242495
+  },
+  {
+    "EnglishName": "Guinea",
+    "HebrewName": "גינאה",
+    "Population": 12395924,
+    "AreaKM2": 245836
+  },
+  {
+    "EnglishName": "Sahrawi Arab Democratic Republic",
+    "HebrewName": "רפובליקת סהרה הערבית הדמוקרטית",
+    "Population": 100000,
+    "AreaKM2": 266000
+  },
+  {
+    "EnglishName": "Gabon",
+    "HebrewName": "גבון",
+    "Population": 1979786,
+    "AreaKM2": 267667
+  },
+  {
+    "EnglishName": "New Zealand",
+    "HebrewName": "ניו זילנד",
+    "Population": 4915480,
+    "AreaKM2": 268021
+  },
+  {
+    "EnglishName": "Burkina Faso",
+    "HebrewName": "בורקינה פאסו",
+    "Population": 20107509,
+    "AreaKM2": 274200
+  },
+  {
+    "EnglishName": "Ecuador",
+    "HebrewName": "אקוודור",
+    "Population": 16385068,
+    "AreaKM2": 283561
+  },
+  {
+    "EnglishName": "Philippines",
+    "HebrewName": "הפיליפינים",
+    "Population": 100981437,
+    "AreaKM2": 300000
+  },
+  {
+    "EnglishName": "Italy",
+    "HebrewName": "איטליה",
+    "Population": 60483973,
+    "AreaKM2": 301340
+  },
+  {
+    "EnglishName": "Oman",
+    "HebrewName": "עומאן",
+    "Population": 4424762,
+    "AreaKM2": 309500
+  },
+  {
+    "EnglishName": "Poland",
+    "HebrewName": "פולין",
+    "Population": 38433600,
+    "AreaKM2": 312696
+  },
+  {
+    "EnglishName": "Ivory Coast",
+    "HebrewName": "חוף השנהב",
+    "Population": 23740424,
+    "AreaKM2": 322463
+  },
+  {
+    "EnglishName": "Malaysia",
+    "HebrewName": "מלזיה",
+    "Population": 32049700,
+    "AreaKM2": 330803
+  },
+  {
+    "EnglishName": "Vietnam",
+    "HebrewName": "וייטנאם",
+    "Population": 94569072,
+    "AreaKM2": 331212
+  },
+  {
+    "EnglishName": "Finland",
+    "HebrewName": "פינלנד",
+    "Population": 5520535,
+    "AreaKM2": 338424
+  },
+  {
+    "EnglishName": "Congo, Republic of the",
+    "HebrewName": "הרפובליקה של קונגו",
+    "Population": 5125821,
+    "AreaKM2": 342000
+  },
+  {
+    "EnglishName": "Germany",
+    "HebrewName": "גרמניה",
+    "Population": 82800000,
+    "AreaKM2": 357386
+  },
+  {
+    "EnglishName": "Japan",
+    "HebrewName": "יפן",
+    "Population": 126440000,
+    "AreaKM2": 377973
+  },
+  {
+    "EnglishName": "Norway",
+    "HebrewName": "נורווגיה",
+    "Population": 5312343,
+    "AreaKM2": 385203
+  },
+  {
+    "EnglishName": "Zimbabwe",
+    "HebrewName": "זימבבואה",
+    "Population": 16150362,
+    "AreaKM2": 390757
+  },
+  {
+    "EnglishName": "Paraguay",
+    "HebrewName": "פרגוואי",
+    "Population": 7052984,
+    "AreaKM2": 406752
+  },
+  {
+    "EnglishName": "Iraq",
+    "HebrewName": "עיראק",
+    "Population": 37202572,
+    "AreaKM2": 437072
+  },
+  {
+    "EnglishName": "Uzbekistan",
+    "HebrewName": "אוזבקיסטן",
+    "Population": 32979000,
+    "AreaKM2": 448978
+  },
+  {
+    "EnglishName": "Sweden",
+    "HebrewName": "שוודיה",
+    "Population": 10196177,
+    "AreaKM2": 450295
+  },
+  {
+    "EnglishName": "Papua New Guinea",
+    "HebrewName": "פפואה גינאה החדשה",
+    "Population": 8084999,
+    "AreaKM2": 462840
+  },
+  {
+    "EnglishName": "Cameroon",
+    "HebrewName": "קמרון",
+    "Population": 23439189,
+    "AreaKM2": 475442
+  },
+  {
+    "EnglishName": "Turkmenistan",
+    "HebrewName": "טורקמניסטן",
+    "Population": 5662544,
+    "AreaKM2": 491210
+  },
+  {
+    "EnglishName": "Spain",
+    "HebrewName": "ספרד",
+    "Population": 46710000,
+    "AreaKM2": 505990
+  },
+  {
+    "EnglishName": "Thailand",
+    "HebrewName": "תאילנד",
+    "Population": 68863514,
+    "AreaKM2": 513120
+  },
+  {
+    "EnglishName": "Yemen",
+    "HebrewName": "תימן",
+    "Population": 27584213,
+    "AreaKM2": 527968
+  },
+  {
+    "EnglishName": "Kenya",
+    "HebrewName": "קניה",
+    "Population": 49125325,
+    "AreaKM2": 580367
+  },
+  {
+    "EnglishName": "Botswana",
+    "HebrewName": "בוטסואנה",
+    "Population": 2250260,
+    "AreaKM2": 581730
+  },
+  {
+    "EnglishName": "Madagascar",
+    "HebrewName": "מדגסקר",
+    "Population": 24894551,
+    "AreaKM2": 587041
+  },
+  {
+    "EnglishName": "Ukraine",
+    "HebrewName": "אוקראינה",
+    "Population": 42418235,
+    "AreaKM2": 603628
+  },
+  {
+    "EnglishName": "South Sudan",
+    "HebrewName": "דרום סודאן",
+    "Population": 12230730,
+    "AreaKM2": 619745
+  },
+  {
+    "EnglishName": "Central African Republic",
+    "HebrewName": "הרפובליקה המרכז-אפריקאית",
+    "Population": 4594621,
+    "AreaKM2": 622984
+  },
+  {
+    "EnglishName": "Somalia",
+    "HebrewName": "סומליה",
+    "Population": 11031386,
+    "AreaKM2": 637657
+  },
+  {
+    "EnglishName": "France",
+    "HebrewName": "צרפת",
+    "Population": 67348000,
+    "AreaKM2": 640679
+  },
+  {
+    "EnglishName": "Afghanistan",
+    "HebrewName": "אפגניסטן",
+    "Population": 34656032,
+    "AreaKM2": 652864
+  },
+  {
+    "EnglishName": "Myanmar",
+    "HebrewName": "מיאנמר",
+    "Population": 53582855,
+    "AreaKM2": 676578
+  },
+  {
+    "EnglishName": "Morocco",
+    "HebrewName": "מרוקו",
+    "Population": 35740000,
+    "AreaKM2": 710850
+  },
+  {
+    "EnglishName": "Zambia",
+    "HebrewName": "זמביה",
+    "Population": 16591390,
+    "AreaKM2": 752618
+  },
+  {
+    "EnglishName": "Chile",
+    "HebrewName": "צ'ילה",
+    "Population": 17574003,
+    "AreaKM2": 756096.3
+  },
+  {
+    "EnglishName": "Turkey",
+    "HebrewName": "טורקיה",
+    "Population": 80810525,
+    "AreaKM2": 783356
+  },
+  {
+    "EnglishName": "Mozambique",
+    "HebrewName": "מוזמביק",
+    "Population": 28829476,
+    "AreaKM2": 801590
+  },
+  {
+    "EnglishName": "Namibia",
+    "HebrewName": "נמיביה",
+    "Population": 2606971,
+    "AreaKM2": 825615
+  },
+  {
+    "EnglishName": "Pakistan",
+    "HebrewName": "פקיסטן",
+    "Population": 212742631,
+    "AreaKM2": 881913
+  },
+  {
+    "EnglishName": "Venezuela",
+    "HebrewName": "ונצואלה",
+    "Population": 31568179,
+    "AreaKM2": 916445
+  },
+  {
+    "EnglishName": "Nigeria",
+    "HebrewName": "ניגריה",
+    "Population": 190886311,
+    "AreaKM2": 923768
+  },
+  {
+    "EnglishName": "Tanzania",
+    "HebrewName": "טנזניה",
+    "Population": 55572201,
+    "AreaKM2": 947303
+  },
+  {
+    "EnglishName": "Egypt",
+    "HebrewName": "מצרים",
+    "Population": 94798827,
+    "AreaKM2": 1010408
+  },
+  {
+    "EnglishName": "Mauritania",
+    "HebrewName": "מאוריטניה",
+    "Population": 4301018,
+    "AreaKM2": 1030000
+  },
+  {
+    "EnglishName": "Bolivia",
+    "HebrewName": "בוליביה",
+    "Population": 11248864,
+    "AreaKM2": 1098581
+  },
+  {
+    "EnglishName": "Ethiopia",
+    "HebrewName": "אתיופיה",
+    "Population": 102403196,
+    "AreaKM2": 1104300
+  },
+  {
+    "EnglishName": "Colombia",
+    "HebrewName": "קולומביה",
+    "Population": 49996445,
+    "AreaKM2": 1141748
+  },
+  {
+    "EnglishName": "South Africa",
+    "HebrewName": "דרום אפריקה",
+    "Population": 57725600,
+    "AreaKM2": 1221037
+  },
+  {
+    "EnglishName": "Mali",
+    "HebrewName": "מאלי",
+    "Population": 14517176,
+    "AreaKM2": 1240192
+  },
+  {
+    "EnglishName": "Angola",
+    "HebrewName": "אנגולה",
+    "Population": 25789024,
+    "AreaKM2": 1246700
+  },
+  {
+    "EnglishName": "Niger",
+    "HebrewName": "ניז'ר",
+    "Population": 20672987,
+    "AreaKM2": 1267000
+  },
+  {
+    "EnglishName": "Chad",
+    "HebrewName": "צ'אד",
+    "Population": 13670084,
+    "AreaKM2": 1284000
+  },
+  {
+    "EnglishName": "Peru",
+    "HebrewName": "פרו",
+    "Population": 32162184,
+    "AreaKM2": 1285216
+  },
+  {
+    "EnglishName": "Mongolia",
+    "HebrewName": "מונגוליה",
+    "Population": 3081677,
+    "AreaKM2": 1566000
+  },
+  {
+    "EnglishName": "Iran",
+    "HebrewName": "איראן",
+    "Population": 81672300,
+    "AreaKM2": 1648195
+  },
+  {
+    "EnglishName": "Libya",
+    "HebrewName": "לוב",
+    "Population": 6653210,
+    "AreaKM2": 1759541
+  },
+  {
+    "EnglishName": "Sudan",
+    "HebrewName": "סודאן",
+    "Population": 39578828,
+    "AreaKM2": 1886068
+  },
+  {
+    "EnglishName": "Indonesia",
+    "HebrewName": "אינדונזיה",
+    "Population": 261115456,
+    "AreaKM2": 1904569
+  },
+  {
+    "EnglishName": "Mexico",
+    "HebrewName": "מקסיקו",
+    "Population": 123675325,
+    "AreaKM2": 1972550
+  },
+  {
+    "EnglishName": "Saudi Arabia",
+    "HebrewName": "ערב הסעודית",
+    "Population": 33000000,
+    "AreaKM2": 2149690
+  },
+  {
+    "EnglishName": "Congo, Democratic Republic of the",
+    "HebrewName": "הרפובליקה הדמוקרטית של קונגו",
+    "Population": 78736153,
+    "AreaKM2": 2345409
+  },
+  {
+    "EnglishName": "Algeria",
+    "HebrewName": "אלג'יריה",
+    "Population": 42200000,
+    "AreaKM2": 2381741
+  },
+  {
+    "EnglishName": "Kazakhstan",
+    "HebrewName": "קזחסטן",
+    "Population": 18311700,
+    "AreaKM2": 2724900
+  },
+  {
+    "EnglishName": "Argentina",
+    "HebrewName": "ארגנטינה",
+    "Population": 43847430,
+    "AreaKM2": 2780400
+  },
+  {
+    "EnglishName": "India",
+    "HebrewName": "הודו",
+    "Population": 1324171354,
+    "AreaKM2": 3287263
+  },
+  {
+    "EnglishName": "Australia",
+    "HebrewName": "אוסטרליה",
+    "Population": 25110100,
+    "AreaKM2": 7692024
+  },
+  {
+    "EnglishName": "Brazil",
+    "HebrewName": "ברזיל",
+    "Population": 210147125,
+    "AreaKM2": 8515767
+  },
+  {
+    "EnglishName": "China",
+    "HebrewName": "הרפובליקה העממית של סין",
+    "Population": 1403500365,
+    "AreaKM2": 9596961
+  },
+  {
+    "EnglishName": "United States",
+    "HebrewName": "ארצות הברית",
+    "Population": 325719178,
+    "AreaKM2": 9833520
+  },
+  {
+    "EnglishName": "Canada",
+    "HebrewName": "קנדה",
+    "Population": 37067011,
+    "AreaKM2": 9984670
+  },
+  {
+    "EnglishName": "Russia",
+    "HebrewName": "רוסיה",
+    "Population": 144526636,
+    "AreaKM2": 17098246
   }
 ]
