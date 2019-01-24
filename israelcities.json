@@ -1,0 +1,618 @@
+[
+  {
+    "EnglishName": "Jerusalem",
+    "HebrewName": "ירושלים",
+    "Population": 901302,
+    "AreaKM2": 125.42,
+    "Density": 7186.27,
+    "Latitude": 31.465800
+  },
+  {
+    "EnglishName": "Tel Aviv",
+    "HebrewName": "תל אביב-יפו",
+    "Population": 443939,
+    "AreaKM2": 51.83,
+    "Density": 8565.29,
+    "Latitude": 32.043500
+  },
+  {
+    "EnglishName": "Haifa",
+    "HebrewName": "חיפה",
+    "Population": 281087,
+    "AreaKM2": 64.68,
+    "Density": 4345.81,
+    "Latitude": 32.481400
+  },
+  {
+    "EnglishName": "Rishon LeZion",
+    "HebrewName": "ראשון לציון",
+    "Population": 249860,
+    "AreaKM2": 58.86,
+    "Density": 4244.99,
+    "Latitude": 31.580800
+  },
+  {
+    "EnglishName": "Petah Tikva",
+    "HebrewName": "פתח תקווה",
+    "Population": 240357,
+    "AreaKM2": 35.72,
+    "Density": 6728.92,
+    "Latitude": 32.050600
+  },
+  {
+    "EnglishName": "Ashdod",
+    "HebrewName": "אשדוד",
+    "Population": 222883,
+    "AreaKM2": 46.13,
+    "Density": 4831.63,
+    "Latitude": 31.474400
+  },
+  {
+    "EnglishName": "Netanya",
+    "HebrewName": "נתניה",
+    "Population": 214101,
+    "AreaKM2": 29.04,
+    "Density": 7372.62,
+    "Latitude": 32.195500
+  },
+  {
+    "EnglishName": "Beersheba",
+    "HebrewName": "באר שבע",
+    "Population": 207551,
+    "AreaKM2": 117.32,
+    "Density": 1769.10,
+    "Latitude": 31.151100
+  },
+  {
+    "EnglishName": "Bnei Brak",
+    "HebrewName": "בני ברק",
+    "Population": 193774,
+    "AreaKM2": 7.31,
+    "Density": 26508.07,
+    "Latitude": 32.051200
+  },
+  {
+    "EnglishName": "Holon",
+    "HebrewName": "חולון",
+    "Population": 192624,
+    "AreaKM2": 19.06,
+    "Density": 10106.19,
+    "Latitude": 32.010100
+  },
+  {
+    "EnglishName": "Ramat Gan",
+    "HebrewName": "רמת גן",
+    "Population": 156277,
+    "AreaKM2": 16.4,
+    "Density": 9529.09,
+    "Latitude": 32.040900
+  },
+  {
+    "EnglishName": "Rehovot",
+    "HebrewName": "רחובות",
+    "Population": 138379,
+    "AreaKM2": 23.72,
+    "Density": 5833.85,
+    "Latitude": 31.533000
+  },
+  {
+    "EnglishName": "Ashkelon",
+    "HebrewName": "אשקלון",
+    "Population": 137945,
+    "AreaKM2": 45.96,
+    "Density": 3001.41,
+    "Latitude": 31.400700
+  },
+  {
+    "EnglishName": "Bat Yam",
+    "HebrewName": "בת ים",
+    "Population": 128655,
+    "AreaKM2": 8.16,
+    "Density": 15766.54,
+    "Latitude": 32.011100
+  },
+  {
+    "EnglishName": "Beit Shemesh",
+    "HebrewName": "בית שמש",
+    "Population": 114371,
+    "AreaKM2": 38.67,
+    "Density": 2957.62,
+    "Latitude": 31.441300
+  },
+  {
+    "EnglishName": "Kfar Saba",
+    "HebrewName": "כפר סבא",
+    "Population": 100039,
+    "AreaKM2": 14.5,
+    "Density": 6899.24,
+    "Latitude": 32.105100
+  },
+  {
+    "EnglishName": "Herzliya",
+    "HebrewName": "הרצליה",
+    "Population": 93989,
+    "AreaKM2": 21.77,
+    "Density": 4317.36,
+    "Latitude": 32.101200
+  },
+  {
+    "EnglishName": "Givatayim",
+    "HebrewName": "גבעתיים",
+    "Population": 93989,
+    "AreaKM2": 3.25,
+    "Density": 28919.69,
+    "Latitude": 32.041700
+  },
+  {
+    "EnglishName": "Hadera",
+    "HebrewName": "חדרה",
+    "Population": 93973,
+    "AreaKM2": 50.64,
+    "Density": 1855.71,
+    "Latitude": 32.260800
+  },
+  {
+    "EnglishName": "Kiryat Ata",
+    "HebrewName": "קריית אתא",
+    "Population": 93973,
+    "AreaKM2": 16.32,
+    "Density": 5758.15,
+    "Latitude": 32.481600
+  },
+  {
+    "EnglishName": "Modi'in-Maccabim-Re'ut",
+    "HebrewName": "מודיעין- מכבים- רעות",
+    "Population": 91328,
+    "AreaKM2": 48.33,
+    "Density": 1889.68,
+    "Latitude": 31.534300
+  },
+  {
+    "EnglishName": "Hod HaSharon",
+    "HebrewName": "הוד השרון",
+    "Population": 91328,
+    "AreaKM2": 19.4,
+    "Density": 4707.63,
+    "Latitude": 32.090900
+  },
+  {
+    "EnglishName": "Nazareth",
+    "HebrewName": "נצרת",
+    "Population": 76551,
+    "AreaKM2": 14.14,
+    "Density": 5413.79,
+    "Latitude": 32.420700
+  },
+  {
+    "EnglishName": "Umm al-Fahm",
+    "HebrewName": "אום אל-פחם",
+    "Population": 76551,
+    "AreaKM2": 26.06,
+    "Density": 2937.49,
+    "Latitude": 32.310900
+  },
+  {
+    "EnglishName": "Ramla",
+    "HebrewName": "רמלה",
+    "Population": 75668,
+    "AreaKM2": 12.05,
+    "Density": 6279.50,
+    "Latitude": 31.554200
+  },
+  {
+    "EnglishName": "Nahariya",
+    "HebrewName": "נהריה",
+    "Population": 75668,
+    "AreaKM2": 11.14,
+    "Density": 6792.46,
+    "Latitude": 33.003100
+  },
+  {
+    "EnglishName": "Lod",
+    "HebrewName": "לוד",
+    "Population": 74604,
+    "AreaKM2": 12.09,
+    "Density": 6170.72,
+    "Latitude": 31.570500
+  },
+  {
+    "EnglishName": "Kiryat Gat",
+    "HebrewName": "קריית גת",
+    "Population": 74604,
+    "AreaKM2": 15.91,
+    "Density": 4689.13,
+    "Latitude": 31.363300
+  },
+  {
+    "EnglishName": "Ra'anana",
+    "HebrewName": "רעננה",
+    "Population": 72810,
+    "AreaKM2": 14.82,
+    "Density": 4912.96,
+    "Latitude": 32.110900
+  },
+  {
+    "EnglishName": "Eilat",
+    "HebrewName": "אילת",
+    "Population": 72810,
+    "AreaKM2": 98.76,
+    "Density": 737.24,
+    "Latitude": 29.331400
+  },
+  {
+    "EnglishName": "Modi'in Illit",
+    "HebrewName": "מודיעין עילית",
+    "Population": 70081,
+    "AreaKM2": 4.83,
+    "Density": 14509.52,
+    "Latitude": 31.555300
+  },
+  {
+    "EnglishName": "Acre, Israel",
+    "HebrewName": "עכו",
+    "Population": 70081,
+    "AreaKM2": 14.26,
+    "Density": 4914.52,
+    "Latitude": 32.554100
+  },
+  {
+    "EnglishName": "Beitar Illit",
+    "HebrewName": "ביתר עילית",
+    "Population": 66791,
+    "AreaKM2": 4.92,
+    "Density": 13575.41,
+    "Latitude": 31.414700
+  },
+  {
+    "EnglishName": "Rahat",
+    "HebrewName": "רהט",
+    "Population": 66791,
+    "AreaKM2": 19.63,
+    "Density": 3402.50,
+    "Latitude": 31.233200
+  },
+  {
+    "EnglishName": "Ness Ziona",
+    "HebrewName": "נס ציונה",
+    "Population": 59518,
+    "AreaKM2": 15.73,
+    "Density": 3783.73,
+    "Latitude": 31.553600
+  },
+  {
+    "EnglishName": "Karmiel",
+    "HebrewName": "כרמיאל",
+    "Population": 57518,
+    "AreaKM2": 21.93,
+    "Density": 2622.80,
+    "Latitude": 32.544200
+  },
+  {
+    "EnglishName": "Rosh HaAyin",
+    "HebrewName": "ראש העין",
+    "Population": 50453,
+    "AreaKM2": 15.84,
+    "Density": 3185.16,
+    "Latitude": 32.054400
+  },
+  {
+    "EnglishName": "Afula",
+    "HebrewName": "עפולה",
+    "Population": 49169,
+    "AreaKM2": 29.31,
+    "Density": 1677.55,
+    "Latitude": 32.370000
+  },
+  {
+    "EnglishName": "El'ad",
+    "HebrewName": "אלעד",
+    "Population": 46896,
+    "AreaKM2": 3.47,
+    "Density": 13514.70,
+    "Latitude": 32.030400
+  },
+  {
+    "EnglishName": "Ramat HaSharon",
+    "HebrewName": "רמת השרון",
+    "Population": 46019,
+    "AreaKM2": 16.62,
+    "Density": 2768.89,
+    "Latitude": 32.082200
+  },
+  {
+    "EnglishName": "Yavne",
+    "HebrewName": "יבנה",
+    "Population": 45483,
+    "AreaKM2": 16.31,
+    "Density": 2788.66,
+    "Latitude": 31.524000
+  },
+  {
+    "EnglishName": "Tiberias",
+    "HebrewName": "טבריה",
+    "Population": 43664,
+    "AreaKM2": 16.28,
+    "Density": 2682.06,
+    "Latitude": 32.471500
+  },
+  {
+    "EnglishName": "Tayibe",
+    "HebrewName": "טייבה",
+    "Population": 42401,
+    "AreaKM2": 18.87,
+    "Density": 2247.01,
+    "Latitude": 32.155400
+  },
+  {
+    "EnglishName": "Kiryat Motzkin",
+    "HebrewName": "קריית מוצקין",
+    "Population": 41440,
+    "AreaKM2": 3.84,
+    "Density": 10791.67,
+    "Latitude": 32.500800
+  },
+  {
+    "EnglishName": "Shefa-'Amr",
+    "HebrewName": "שפרעם",
+    "Population": 41024,
+    "AreaKM2": 19.58,
+    "Density": 2095.20,
+    "Latitude": 32.482200
+  },
+  {
+    "EnglishName": "Nazareth Illit",
+    "HebrewName": "נצרת עילית",
+    "Population": 40596,
+    "AreaKM2": 33.02,
+    "Density": 1229.44,
+    "Latitude": 32.422700
+  },
+  {
+    "EnglishName": "Kiryat Yam",
+    "HebrewName": "קריית ים",
+    "Population": 39710,
+    "AreaKM2": 4.58,
+    "Density": 8670.31,
+    "Latitude": 32.503800
+  },
+  {
+    "EnglishName": "Kiryat Bialik",
+    "HebrewName": "קריית ביאליק",
+    "Population": 39582,
+    "AreaKM2": 8.47,
+    "Density": 4673.20,
+    "Latitude": 32.502000
+  },
+  {
+    "EnglishName": "Kiryat Ono",
+    "HebrewName": "קריית אונו",
+    "Population": 39398,
+    "AreaKM2": 4.54,
+    "Density": 8677.97,
+    "Latitude": 32.033900
+  },
+  {
+    "EnglishName": "Ma'ale Adumim",
+    "HebrewName": "מעלה אדומים",
+    "Population": 37817,
+    "AreaKM2": 46.48,
+    "Density": 813.62,
+    "Latitude": 31.464600
+  },
+  {
+    "EnglishName": "Or Yehuda",
+    "HebrewName": "אור יהודה",
+    "Population": 36706,
+    "AreaKM2": 6.7,
+    "Density": 5478.51,
+    "Latitude": 32.014600
+  },
+  {
+    "EnglishName": "Safed",
+    "HebrewName": "צפת",
+    "Population": 35276,
+    "AreaKM2": 29.98,
+    "Density": 1176.65,
+    "Latitude": 32.575300
+  },
+  {
+    "EnglishName": "Netivot",
+    "HebrewName": "נתיבות",
+    "Population": 33779,
+    "AreaKM2": 10.15,
+    "Density": 3327.98,
+    "Latitude": 31.251700
+  },
+  {
+    "EnglishName": "Dimona",
+    "HebrewName": "דימונה",
+    "Population": 33666,
+    "AreaKM2": 173.01,
+    "Density": 194.59,
+    "Latitude": 31.041100
+  },
+  {
+    "EnglishName": "Tamra",
+    "HebrewName": "טמרה",
+    "Population": 33380,
+    "AreaKM2": 29.32,
+    "Density": 1138.47,
+    "Latitude": 32.511400
+  },
+  {
+    "EnglishName": "Sakhnin",
+    "HebrewName": "סח'נין",
+    "Population": 30548,
+    "AreaKM2": 9.82,
+    "Density": 3110.79,
+    "Latitude": 32.515200
+  },
+  {
+    "EnglishName": "Yehud-Monosson",
+    "HebrewName": "יהוד-מונוסון",
+    "Population": 29689,
+    "AreaKM2": 5.0,
+    "Density": 5937.8,
+    "Latitude": 32.015900
+  },
+  {
+    "EnglishName": "Baqa al-Gharbiyye",
+    "HebrewName": "באקה אל-גרבייה",
+    "Population": 29035,
+    "AreaKM2": 9.06,
+    "Density": 3204.75,
+    "Latitude": 32.251000
+  },
+  {
+    "EnglishName": "Ofakim",
+    "HebrewName": "אופקים",
+    "Population": 27771,
+    "AreaKM2": 10.24,
+    "Density": 2712.01,
+    "Latitude": 31.183100
+  },
+  {
+    "EnglishName": "Giv'at Shmuel",
+    "HebrewName": "גבעת שמואל",
+    "Population": 25776,
+    "AreaKM2": 2.55,
+    "Density": 10108.24,
+    "Latitude": 32.043700
+  },
+  {
+    "EnglishName": "Tira, Israel",
+    "HebrewName": "טירה",
+    "Population": 25721,
+    "AreaKM2": 11.79,
+    "Density": 2181.59,
+    "Latitude": 32.140100
+  },
+  {
+    "EnglishName": "Arad, Israel",
+    "HebrewName": "ערד",
+    "Population": 25530,
+    "AreaKM2": 102.61,
+    "Density": 248.81,
+    "Latitude": 31.153200
+  },
+  {
+    "EnglishName": "Migdal HaEmek",
+    "HebrewName": "מגדל העמק",
+    "Population": 25371,
+    "AreaKM2": 8.75,
+    "Density": 2899.54,
+    "Latitude": 32.404100
+  },
+  {
+    "EnglishName": "Sderot",
+    "HebrewName": "שדרות",
+    "Population": 25138,
+    "AreaKM2": 6.3,
+    "Density": 3990.16,
+    "Latitude": 31.314000
+  },
+  {
+    "EnglishName": "Arraba, Israel",
+    "HebrewName": "עראבה",
+    "Population": 24972,
+    "AreaKM2": 8.25,
+    "Density": 3026.91,
+    "Latitude": 32.510600
+  },
+  {
+    "EnglishName": "Nesher",
+    "HebrewName": "נשר",
+    "Population": 23749,
+    "AreaKM2": 13.02,
+    "Density": 1824.04,
+    "Latitude": 32.460900
+  },
+  {
+    "EnglishName": "Kiryat Shmona",
+    "HebrewName": "קריית שמונה",
+    "Population": 22844,
+    "AreaKM2": 14.56,
+    "Density": 1568.96,
+    "Latitude": 33.124200
+  },
+  {
+    "EnglishName": "Yokneam Illit",
+    "HebrewName": "יקנעם עילית",
+    "Population": 22746,
+    "AreaKM2": 8.21,
+    "Density": 2770.52,
+    "Latitude": 32.393400
+  },
+  {
+    "EnglishName": "Kafr Qasim",
+    "HebrewName": "כפר קאסם",
+    "Population": 22743,
+    "AreaKM2": 9.37,
+    "Density": 2427.21,
+    "Latitude": 32.065300
+  },
+  {
+    "EnglishName": "Kfar Yona",
+    "HebrewName": "כפר יונה",
+    "Population": 22537,
+    "AreaKM2": 11.34,
+    "Density": 1987.39,
+    "Latitude": 32.185600
+  },
+  {
+    "EnglishName": "Qalansawe",
+    "HebrewName": "קלנסווה",
+    "Population": 22370,
+    "AreaKM2": 8.4,
+    "Density": 2663.10,
+    "Latitude": 32.171600
+  },
+  {
+    "EnglishName": "Kiryat Malakhi",
+    "HebrewName": "קריית מלאכי",
+    "Population": 22337,
+    "AreaKM2": 4.54,
+    "Density": 4920.04,
+    "Latitude": 31.435700
+  },
+  {
+    "EnglishName": "Ma'alot-Tarshiha",
+    "HebrewName": "מעלות- תרשיחא",
+    "Population": 21267,
+    "AreaKM2": 9.22,
+    "Density": 2306.62,
+    "Latitude": 33.005500
+  },
+  {
+    "EnglishName": "Tirat Carmel",
+    "HebrewName": "טירת כרמל",
+    "Population": 21256,
+    "AreaKM2": 5.92,
+    "Density": 3590.54,
+    "Latitude": 32.454200
+  },
+  {
+    "EnglishName": "Ariel (city)",
+    "HebrewName": "אריאל",
+    "Population": 19626,
+    "AreaKM2": 14.36,
+    "Density": 1366.71,
+    "Latitude": 32.061900
+  },
+  {
+    "EnglishName": "Or Akiva",
+    "HebrewName": "אור עקיבא",
+    "Population": 17759,
+    "AreaKM2": 5.54,
+    "Density": 3205.60,
+    "Latitude": 32.302700
+  },
+  {
+    "EnglishName": "Beit She'an",
+    "HebrewName": "בית שאן",
+    "Population": 17704,
+    "AreaKM2": 7.44,
+    "Density": 2379.57,
+    "Latitude": 32.295000
+  }
+]

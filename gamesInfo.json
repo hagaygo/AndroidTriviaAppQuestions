@@ -194,12 +194,12 @@
       "English": {
         "Name": "Geography",
         "QuestionText": "Which city is northmost ?",
-        "Category": "Cities"
+        "Category": "World cities"
       },
       "Hebrew": {
         "Name": "מיקום גאוגרפי",
         "QuestionText": "איזו עיר צפונית יותר ?",
-        "Category": "ערים"
+        "Category": "ערים בעולם"
       }
     },
     {
@@ -210,12 +210,12 @@
       "English": {
         "Name": "Population",
         "QuestionText": "Which city population is larger ?",
-        "Category": "Cities"
+        "Category": "World cities"
       },
       "Hebrew": {
         "Name": "תושבים",
         "QuestionText": "איזו עיר בעלת כמות תושבים גדולה יותר ?",
-        "Category": "ערים"
+        "Category": "ערים בעולם"
       }
     },
     {
@@ -227,13 +227,13 @@
         "Name": "Area",
         "QuestionText": "Which city area is larger ?",
         "ValueTextFormat": "{0} km2",
-        "Category": "Cities"
+        "Category": "World cities"
       },
       "Hebrew": {
         "Name": "שטח",
         "QuestionText": "איזו עיר בעלת שטח גדול יותר ?",
         "ValueTextFormat": "{0} קמ\"ר",
-        "Category": "ערים"
+        "Category": "ערים בעולם"
       }
     },
     {
@@ -245,15 +245,152 @@
         "Name": "Population density",
         "QuestionText": "Which city has higher population density ?",
         "ValueTextFormat": "{0} pop/km2",
-        "Category": "Cities"
+        "Category": "World cities"
       },
       "Hebrew": {
         "Name": "צפיפות אוכלוסין",
         "QuestionText": "איזו עיר בעלת צפיפות אוכלסין גדולה יותר ?",
         "ValueTextFormat": "{0} נפש לקמ\"ר",
-        "Category": "ערים"
+        "Category": "ערים בעולם"
+      }
+    },
+    {
+      "Guid": "{3695E1B3-B6FD-4157-B643-525D1B46658D}",
+      "RawResourceName": "israelcities",
+      "ValueFieldName": "Latitude",
+      "ValueFormat": "Latitude",
+      "ValueDelta": "-31",
+      "English": {
+        "Name": "Geography",
+        "QuestionText": "Which city is northmost ?",
+        "Category": "Cities in israel"
+      },
+      "Hebrew": {
+        "Name": "מיקום גאוגרפי",
+        "QuestionText": "איזו עיר צפונית יותר ?",
+        "Category": "ערים בישראל"
+      }
+    },
+    {
+      "Guid": "{C699B1EB-E0A2-4C2A-AA06-5188120A2648}",
+      "RawResourceName": "israelcities",
+      "ValueFieldName": "Population",
+      "ValueFormat": "#,##0",
+      "English": {
+        "Name": "Population",
+        "QuestionText": "Which city population is larger ?",
+        "Category": "Cities in israel"
+      },
+      "Hebrew": {
+        "Name": "תושבים",
+        "QuestionText": "איזו עיר בעלת כמות תושבים גדולה יותר ?",
+        "Category": "ערים בישראל"
+      }
+    },
+    {
+      "Guid": "{890DD362-7D34-4597-83AD-60C86D902C94}",
+      "RawResourceName": "israelcities",
+      "ValueFieldName": "AreaKM2",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Area",
+        "QuestionText": "Which city area is larger ?",
+        "ValueTextFormat": "{0} km2",
+        "Category": "Cities in israel"
+      },
+      "Hebrew": {
+        "Name": "שטח",
+        "QuestionText": "איזו עיר בעלת שטח גדול יותר ?",
+        "ValueTextFormat": "{0} קמ\"ר",
+        "Category": "ערים בישראל"
+      }
+    },
+    {
+      "Guid": "{F4D9E2E4-24C3-4586-BDA1-DBC80D18BB47}",
+      "RawResourceName": "israelcities",
+      "ValueFieldName": "Density",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Population density",
+        "QuestionText": "Which city has higher population density ?",
+        "ValueTextFormat": "{0} pop/km2",
+        "Category": "Cities in israel"
+      },
+      "Hebrew": {
+        "Name": "צפיפות אוכלוסין",
+        "QuestionText": "איזו עיר בעלת צפיפות אוכלסין גדולה יותר ?",
+        "ValueTextFormat": "{0} נפש לקמ\"ר",
+        "Category": "ערים בישראל"
+      }
+    },
+    {
+      "Guid": "{FCBA486F-04F6-4B88-8539-1017093C0ACE}",
+      "RawResourceName": "usacities",
+      "ValueFieldName": "Latitude",
+      "ValueFormat": "Latitude",
+      "ValueDelta": "-31",
+      "English": {
+        "Name": "Geography",
+        "QuestionText": "Which city is northmost ?",
+        "Category": "Cities in USA"
+      },
+      "Hebrew": {
+        "Name": "מיקום גאוגרפי",
+        "QuestionText": "איזו עיר צפונית יותר ?",
+        "Category": "ערים בארה\"ב"
+      }
+    },
+    {
+      "Guid": "{46A9B497-6E5B-478D-BA7A-F984A2628540}",
+      "RawResourceName": "usacities",
+      "ValueFieldName": "Population",
+      "ValueFormat": "#,##0",
+      "English": {
+        "Name": "Population",
+        "QuestionText": "Which city population is larger ?",
+        "Category": "Cities in USA"
+      },
+      "Hebrew": {
+        "Name": "תושבים",
+        "QuestionText": "איזו עיר בעלת כמות תושבים גדולה יותר ?",
+        "Category": "ערים בארה\"ב"
+      }
+    },
+    {
+      "Guid": "{4B8E1188-7517-4EC0-A3C1-D579BAAD4E36}",
+      "RawResourceName": "usacities",
+      "ValueFieldName": "AreaKM2",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Area",
+        "QuestionText": "Which city area is larger ?",
+        "ValueTextFormat": "{0} km2",
+        "Category": "Cities in USA"
+      },
+      "Hebrew": {
+        "Name": "שטח",
+        "QuestionText": "איזו עיר בעלת שטח גדול יותר ?",
+        "ValueTextFormat": "{0} קמ\"ר",
+        "Category": "ערים בארה\"ב"
+      }
+    },
+    {
+      "Guid": "{45663890-DFD8-4F15-9026-39211C9ECF19}",
+      "RawResourceName": "usacities",
+      "ValueFieldName": "Density",
+      "ValueFormat": "#,##0.###",
+      "English": {
+        "Name": "Population density",
+        "QuestionText": "Which city has higher population density ?",
+        "ValueTextFormat": "{0} pop/km2",
+        "Category": "Cities in USA"
+      },
+      "Hebrew": {
+        "Name": "צפיפות אוכלוסין",
+        "QuestionText": "איזו עיר בעלת צפיפות אוכלסין גדולה יותר ?",
+        "ValueTextFormat": "{0} נפש לקמ\"ר",
+        "Category": "ערים בארה\"ב"
       }
     }
-
   ]
 }

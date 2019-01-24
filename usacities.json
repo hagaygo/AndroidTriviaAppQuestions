@@ -1,0 +1,962 @@
+[
+  {
+    "EnglishName": "New York",
+    "HebrewName": "ניו יורק",
+    "Population": 8622698,
+    "AreaKM2": 780.9,
+    "Density": 11042.00,
+    "Latitude": 40.424600
+  },
+  {
+    "EnglishName": "Los Angeles",
+    "HebrewName": "לוס אנג'לס",
+    "Population": 3999759,
+    "AreaKM2": 1213.9,
+    "Density": 3294.97,
+    "Latitude": 34.030000
+  },
+  {
+    "EnglishName": "Chicago",
+    "HebrewName": "שיקגו",
+    "Population": 2716450,
+    "AreaKM2": 588.7,
+    "Density": 4614.32,
+    "Latitude": 41.501300
+  },
+  {
+    "EnglishName": "Houston",
+    "HebrewName": "יוסטון",
+    "Population": 2312717,
+    "AreaKM2": 1651.1,
+    "Density": 1400.71,
+    "Latitude": 29.454600
+  },
+  {
+    "EnglishName": "Phoenix",
+    "HebrewName": "פיניקס (אריזונה)",
+    "Population": 1626078,
+    "AreaKM2": 1340.6,
+    "Density": 1212.95,
+    "Latitude": 33.270000
+  },
+  {
+    "EnglishName": "Philadelphia",
+    "HebrewName": "פילדלפיה",
+    "Population": 1580863,
+    "AreaKM2": 347.6,
+    "Density": 4547.94,
+    "Latitude": 39.571000
+  },
+  {
+    "EnglishName": "San Antonio",
+    "HebrewName": "סן אנטוניו",
+    "Population": 1511946,
+    "AreaKM2": 1194.0,
+    "Density": 1266.29,
+    "Latitude": 29.250000
+  },
+  {
+    "EnglishName": "San Diego",
+    "HebrewName": "סן דייגו",
+    "Population": 1419516,
+    "AreaKM2": 842.3,
+    "Density": 1685.29,
+    "Latitude": 32.425400
+  },
+  {
+    "EnglishName": "Dallas",
+    "HebrewName": "דאלאס",
+    "Population": 1341075,
+    "AreaKM2": 882.9,
+    "Density": 1518.94,
+    "Latitude": 32.470000
+  },
+  {
+    "EnglishName": "San Jose",
+    "HebrewName": "סן חוזה (קליפורניה)",
+    "Population": 1035317,
+    "AreaKM2": 459.7,
+    "Density": 2252.16,
+    "Latitude": 37.200000
+  },
+  {
+    "EnglishName": "Austin",
+    "HebrewName": "אוסטין",
+    "Population": 950715,
+    "AreaKM2": 809.9,
+    "Density": 1173.87,
+    "Latitude": 30.160000
+  },
+  {
+    "EnglishName": "Jacksonville",
+    "HebrewName": "ג'קסונוויל",
+    "Population": 892062,
+    "AreaKM2": 1935.8,
+    "Density": 460.82,
+    "Latitude": 30.201300
+  },
+  {
+    "EnglishName": "San Francisco",
+    "HebrewName": "סן פרנסיסקו",
+    "Population": 884363,
+    "AreaKM2": 121.5,
+    "Density": 7278.71,
+    "Latitude": 37.470000
+  },
+  {
+    "EnglishName": "Columbus",
+    "HebrewName": "קולומבוס (אוהיו)",
+    "Population": 879170,
+    "AreaKM2": 565.9,
+    "Density": 1553.58,
+    "Latitude": 39.590000
+  },
+  {
+    "EnglishName": "Fort Worth",
+    "HebrewName": "פורט וורת'",
+    "Population": 874168,
+    "AreaKM2": 888.1,
+    "Density": 984.31,
+    "Latitude": 32.450000
+  },
+  {
+    "EnglishName": "Indianapolis",
+    "HebrewName": "אינדיאנפוליס",
+    "Population": 863002,
+    "AreaKM2": 936.3,
+    "Density": 921.72,
+    "Latitude": 39.460000
+  },
+  {
+    "EnglishName": "Charlotte",
+    "HebrewName": "שארלוט (קרוליינה הצפונית)",
+    "Population": 859035,
+    "AreaKM2": 791.0,
+    "Density": 1086.01,
+    "Latitude": 35.133800
+  },
+  {
+    "EnglishName": "Seattle",
+    "HebrewName": "סיאטל",
+    "Population": 724745,
+    "AreaKM2": 217.0,
+    "Density": 3339.84,
+    "Latitude": 47.363500
+  },
+  {
+    "EnglishName": "Denver",
+    "HebrewName": "דנוור",
+    "Population": 704621,
+    "AreaKM2": 397.0,
+    "Density": 1774.86,
+    "Latitude": 39.454300
+  },
+  {
+    "EnglishName": "Washington",
+    "HebrewName": "וושינגטון די. סי.",
+    "Population": 693972,
+    "AreaKM2": 158.2,
+    "Density": 4386.68,
+    "Latitude": 38.541700
+  },
+  {
+    "EnglishName": "Boston",
+    "HebrewName": "בוסטון",
+    "Population": 685094,
+    "AreaKM2": 125.1,
+    "Density": 5476.37,
+    "Latitude": 42.212900
+  },
+  {
+    "EnglishName": "El Paso",
+    "HebrewName": "אל פאסו",
+    "Population": 683577,
+    "AreaKM2": 665.1,
+    "Density": 1027.78,
+    "Latitude": 31.453314
+  },
+  {
+    "EnglishName": "Detroit",
+    "HebrewName": "דטרויט",
+    "Population": 673104,
+    "AreaKM2": 359.5,
+    "Density": 1872.33,
+    "Latitude": 42.195300
+  },
+  {
+    "EnglishName": "Nashville",
+    "HebrewName": "נאשוויל",
+    "Population": 667560,
+    "AreaKM2": 1232.6,
+    "Density": 541.59,
+    "Latitude": 36.100000
+  },
+  {
+    "EnglishName": "Memphis",
+    "HebrewName": "ממפיס",
+    "Population": 652236,
+    "AreaKM2": 822.1,
+    "Density": 793.38,
+    "Latitude": 35.070300
+  },
+  {
+    "EnglishName": "Portland",
+    "HebrewName": "פורטלנד (אורגון)",
+    "Population": 647805,
+    "AreaKM2": 345.8,
+    "Density": 1873.35,
+    "Latitude": 45.311200
+  },
+  {
+    "EnglishName": "Oklahoma City",
+    "HebrewName": "אוקלהומה סיטי",
+    "Population": 643648,
+    "AreaKM2": 1570.3,
+    "Density": 409.89,
+    "Latitude": 35.285600
+  },
+  {
+    "EnglishName": "Las Vegas",
+    "HebrewName": "לאס וגאס",
+    "Population": 641676,
+    "AreaKM2": 348.1,
+    "Density": 1843.37,
+    "Latitude": 36.103000
+  },
+  {
+    "EnglishName": "Louisville",
+    "HebrewName": "לואיוויל",
+    "Population": 621349,
+    "AreaKM2": 682.5,
+    "Density": 910.40,
+    "Latitude": 38.135200
+  },
+  {
+    "EnglishName": "Baltimore",
+    "HebrewName": "בולטימור",
+    "Population": 611648,
+    "AreaKM2": 209.5,
+    "Density": 2919.56,
+    "Latitude": 39.170000
+  },
+  {
+    "EnglishName": "Milwaukee",
+    "HebrewName": "מילווקי",
+    "Population": 595351,
+    "AreaKM2": 249.2,
+    "Density": 2389.05,
+    "Latitude": 43.038000
+  },
+  {
+    "EnglishName": "Albuquerque",
+    "HebrewName": "אלבקרקי",
+    "Population": 558545,
+    "AreaKM2": 487.4,
+    "Density": 1145.97,
+    "Latitude": 35.063900
+  },
+  {
+    "EnglishName": "Tucson",
+    "HebrewName": "טוסון",
+    "Population": 535677,
+    "AreaKM2": 597.8,
+    "Density": 896.08,
+    "Latitude": 32.131800
+  },
+  {
+    "EnglishName": "Fresno",
+    "HebrewName": "פרזנו",
+    "Population": 527438,
+    "AreaKM2": 296.3,
+    "Density": 1780.08,
+    "Latitude": 36.450000
+  },
+  {
+    "EnglishName": "Sacramento",
+    "HebrewName": "סקרמנטו",
+    "Population": 501901,
+    "AreaKM2": 253.6,
+    "Density": 1979.10,
+    "Latitude": 38.332000
+  },
+  {
+    "EnglishName": "Mesa",
+    "HebrewName": "מסה (אריזונה)",
+    "Population": 496401,
+    "AreaKM2": 357.2,
+    "Density": 1389.70,
+    "Latitude": 33.245400
+  },
+  {
+    "EnglishName": "Kansas City",
+    "HebrewName": "קנזס סיטי",
+    "Population": 488943,
+    "AreaKM2": 815.8,
+    "Density": 599.34,
+    "Latitude": 39.055900
+  },
+  {
+    "EnglishName": "Atlanta",
+    "HebrewName": "אטלנטה",
+    "Population": 486290,
+    "AreaKM2": 345.8,
+    "Density": 1406.28,
+    "Latitude": 33.451800
+  },
+  {
+    "EnglishName": "Long Beach",
+    "HebrewName": "לונג ביץ'",
+    "Population": 469450,
+    "AreaKM2": 130.3,
+    "Density": 3602.84,
+    "Latitude": 33.466000
+  },
+  {
+    "EnglishName": "Omaha",
+    "HebrewName": "אומהה",
+    "Population": 466893,
+    "AreaKM2": 345.0,
+    "Density": 1353.31,
+    "Latitude": 41.150000
+  },
+  {
+    "EnglishName": "Raleigh",
+    "HebrewName": "ראלי (קרוליינה הצפונית)",
+    "Population": 464758,
+    "AreaKM2": 375.8,
+    "Density": 1236.72,
+    "Latitude": 35.460000
+  },
+  {
+    "EnglishName": "Colorado Springs",
+    "HebrewName": "קולורדו ספרינגס",
+    "Population": 464474,
+    "AreaKM2": 506.6,
+    "Density": 916.85,
+    "Latitude": 38.500000
+  },
+  {
+    "EnglishName": "Miami",
+    "HebrewName": "מיאמי",
+    "Population": 463347,
+    "AreaKM2": 93.2,
+    "Density": 4971.53,
+    "Latitude": 25.463100
+  },
+  {
+    "EnglishName": "Virginia Beach",
+    "HebrewName": "וירג'יניה ביץ'",
+    "Population": 450435,
+    "AreaKM2": 633.8,
+    "Density": 710.69,
+    "Latitude": 36.510200
+  },
+  {
+    "EnglishName": "Oakland",
+    "HebrewName": "אוקלנד (קליפורניה)",
+    "Population": 425195,
+    "AreaKM2": 144.8,
+    "Density": 2936.43,
+    "Latitude": 37.481600
+  },
+  {
+    "EnglishName": "Minneapolis",
+    "HebrewName": "מיניאפוליס",
+    "Population": 422331,
+    "AreaKM2": 139.9,
+    "Density": 3018.81,
+    "Latitude": 44.590000
+  },
+  {
+    "EnglishName": "Tulsa",
+    "HebrewName": "טלסה",
+    "Population": 401800,
+    "AreaKM2": 509.7,
+    "Density": 788.31,
+    "Latitude": 36.075300
+  },
+  {
+    "EnglishName": "Arlington",
+    "HebrewName": "ארלינגטון (טקסס)",
+    "Population": 396394,
+    "AreaKM2": 248.1,
+    "Density": 1597.72,
+    "Latitude": 32.421800
+  },
+  {
+    "EnglishName": "New Orleans",
+    "HebrewName": "ניו אורלינס",
+    "Population": 393292,
+    "AreaKM2": 438.7,
+    "Density": 896.49,
+    "Latitude": 29.570000
+  },
+  {
+    "EnglishName": "Wichita",
+    "HebrewName": "ויצ'יטה",
+    "Population": 390591,
+    "AreaKM2": 415.4,
+    "Density": 940.28,
+    "Latitude": 37.412000
+  },
+  {
+    "EnglishName": "Cleveland",
+    "HebrewName": "קליבלנד",
+    "Population": 385525,
+    "AreaKM2": 201.2,
+    "Density": 1916.13,
+    "Latitude": 41.285600
+  },
+  {
+    "EnglishName": "Tampa",
+    "HebrewName": "טמפה",
+    "Population": 385430,
+    "AreaKM2": 293.7,
+    "Density": 1312.33,
+    "Latitude": 27.580500
+  },
+  {
+    "EnglishName": "Bakersfield",
+    "HebrewName": "בייקרספילד",
+    "Population": 380874,
+    "AreaKM2": 385.4,
+    "Density": 988.26,
+    "Latitude": 35.220000
+  },
+  {
+    "EnglishName": "Aurora",
+    "HebrewName": "אורורה (קולורדו)",
+    "Population": 366623,
+    "AreaKM2": 397.6,
+    "Density": 922.09,
+    "Latitude": 39.440000
+  },
+  {
+    "EnglishName": "Anaheim",
+    "HebrewName": "אנהיים",
+    "Population": 352497,
+    "AreaKM2": 129.5,
+    "Density": 2721.98,
+    "Latitude": 33.501000
+  },
+  {
+    "EnglishName": "Honolulu",
+    "HebrewName": "הונולולו",
+    "Population": 350395,
+    "AreaKM2": 156.7,
+    "Density": 2236.09,
+    "Latitude": 21.180000
+  },
+  {
+    "EnglishName": "Santa Ana",
+    "HebrewName": "סנטה אנה (קליפורניה)",
+    "Population": 334136,
+    "AreaKM2": 70.2,
+    "Density": 4759.77,
+    "Latitude": 33.442700
+  },
+  {
+    "EnglishName": "Riverside",
+    "HebrewName": "ריברסייד",
+    "Population": 327728,
+    "AreaKM2": 210.3,
+    "Density": 1558.38,
+    "Latitude": 33.565300
+  },
+  {
+    "EnglishName": "Corpus Christi",
+    "HebrewName": "קורפוס כריסטי",
+    "Population": 325605,
+    "AreaKM2": 452.2,
+    "Density": 720.05,
+    "Latitude": 27.443400
+  },
+  {
+    "EnglishName": "Lexington",
+    "HebrewName": "לקסינגטון",
+    "Population": 321959,
+    "AreaKM2": 734.5,
+    "Density": 438.34,
+    "Latitude": 38.014700
+  },
+  {
+    "EnglishName": "Stockton",
+    "HebrewName": "סטוקטון (קליפורניה)",
+    "Population": 310496,
+    "AreaKM2": 159.8,
+    "Density": 1943.03,
+    "Latitude": 37.583200
+  },
+  {
+    "EnglishName": "St. Louis",
+    "HebrewName": "סנט לואיס",
+    "Population": 308626,
+    "AreaKM2": 160.6,
+    "Density": 1921.71,
+    "Latitude": 38.373800
+  },
+  {
+    "EnglishName": "Saint Paul",
+    "HebrewName": "סיינט פול",
+    "Population": 306621,
+    "AreaKM2": 134.7,
+    "Density": 2276.33,
+    "Latitude": 44.563900
+  },
+  {
+    "EnglishName": "Henderson",
+    "HebrewName": "הנדרסון (נבדה)",
+    "Population": 302539,
+    "AreaKM2": 271.2,
+    "Density": 1115.56,
+    "Latitude": 36.200000
+  },
+  {
+    "EnglishName": "Pittsburgh",
+    "HebrewName": "פיטסבורג",
+    "Population": 302407,
+    "AreaKM2": 143.5,
+    "Density": 2107.37,
+    "Latitude": 40.262300
+  },
+  {
+    "EnglishName": "Cincinnati",
+    "HebrewName": "סינסינטי",
+    "Population": 301301,
+    "AreaKM2": 200.5,
+    "Density": 1502.75,
+    "Latitude": 39.600000
+  },
+  {
+    "EnglishName": "Anchorage",
+    "HebrewName": "אנקורג'",
+    "Population": 294356,
+    "AreaKM2": 4420.1,
+    "Density": 66.59,
+    "Latitude": 61.130000
+  },
+  {
+    "EnglishName": "Greensboro",
+    "HebrewName": "גרינסבורו (קרוליינה הצפונית)",
+    "Population": 290222,
+    "AreaKM2": 332.3,
+    "Density": 873.37,
+    "Latitude": 36.448000
+  },
+  {
+    "EnglishName": "Plano",
+    "HebrewName": "פלאנו",
+    "Population": 286143,
+    "AreaKM2": 185.7,
+    "Density": 1540.89,
+    "Latitude": 33.011100
+  },
+  {
+    "EnglishName": "Newark",
+    "HebrewName": "ניוארק",
+    "Population": 285154,
+    "AreaKM2": 62.4,
+    "Density": 4569.78,
+    "Latitude": 40.430000
+  },
+  {
+    "EnglishName": "Lincoln",
+    "HebrewName": "לינקולן (נברסקה)",
+    "Population": 284736,
+    "AreaKM2": 238.5,
+    "Density": 1193.86,
+    "Latitude": 40.483200
+  },
+  {
+    "EnglishName": "Orlando",
+    "HebrewName": "אורלנדו",
+    "Population": 280257,
+    "AreaKM2": 272.5,
+    "Density": 1028.47,
+    "Latitude": 28.322400
+  },
+  {
+    "EnglishName": "Irvine",
+    "HebrewName": "אירוויין",
+    "Population": 277453,
+    "AreaKM2": 169.9,
+    "Density": 1633.04,
+    "Latitude": 33.401000
+  },
+  {
+    "EnglishName": "Toledo",
+    "HebrewName": "טולידו (אוהיו)",
+    "Population": 276491,
+    "AreaKM2": 209.0,
+    "Density": 1322.92,
+    "Latitude": 41.395600
+  },
+  {
+    "EnglishName": "Jersey City",
+    "HebrewName": "ג'רזי סיטי",
+    "Population": 270753,
+    "AreaKM2": 38.3,
+    "Density": 7069.27,
+    "Latitude": 40.425000
+  },
+  {
+    "EnglishName": "Chula Vista",
+    "HebrewName": "צ'ולה ויסטה",
+    "Population": 270471,
+    "AreaKM2": 128.5,
+    "Density": 2104.83,
+    "Latitude": 32.374000
+  },
+  {
+    "EnglishName": "Durham",
+    "HebrewName": "דרהאם (קרוליינה הצפונית)",
+    "Population": 267743,
+    "AreaKM2": 284.4,
+    "Density": 941.43,
+    "Latitude": 35.591900
+  },
+  {
+    "EnglishName": "Fort Wayne",
+    "HebrewName": "פורט ויין",
+    "Population": 265904,
+    "AreaKM2": 286.5,
+    "Density": 928.11,
+    "Latitude": 41.044962
+  },
+  {
+    "EnglishName": "St. Petersburg",
+    "HebrewName": "סיינט פיטרסברג",
+    "Population": 263255,
+    "AreaKM2": 160.1,
+    "Density": 1644.32,
+    "Latitude": 27.462300
+  },
+  {
+    "EnglishName": "Laredo",
+    "HebrewName": "לארדו (טקסס)",
+    "Population": 260654,
+    "AreaKM2": 261.8,
+    "Density": 995.62,
+    "Latitude": 27.312800
+  },
+  {
+    "EnglishName": "Buffalo",
+    "HebrewName": "באפלו",
+    "Population": 258612,
+    "AreaKM2": 104.6,
+    "Density": 2472.39,
+    "Latitude": 42.541700
+  },
+  {
+    "EnglishName": "Madison",
+    "HebrewName": "מדיסון",
+    "Population": 255214,
+    "AreaKM2": 199.4,
+    "Density": 1279.91,
+    "Latitude": 43.400000
+  },
+  {
+    "EnglishName": "Lubbock",
+    "HebrewName": "לאבק",
+    "Population": 253888,
+    "AreaKM2": 322.7,
+    "Density": 786.76,
+    "Latitude": 33.344000
+  },
+  {
+    "EnglishName": "Chandler",
+    "HebrewName": "צ'נדלר (אריזונה)",
+    "Population": 253458,
+    "AreaKM2": 168.1,
+    "Density": 1507.78,
+    "Latitude": 33.180000
+  },
+  {
+    "EnglishName": "Scottsdale",
+    "HebrewName": "סקוטסדייל",
+    "Population": 249950,
+    "AreaKM2": 476.3,
+    "Density": 524.77,
+    "Latitude": 33.300000
+  },
+  {
+    "EnglishName": "Reno",
+    "HebrewName": "רינו",
+    "Population": 248853,
+    "AreaKM2": 277.9,
+    "Density": 895.48,
+    "Latitude": 39.313800
+  },
+  {
+    "EnglishName": "Glendale",
+    "HebrewName": "גלנדייל (אריזונה)",
+    "Population": 246709,
+    "AreaKM2": 153.1,
+    "Density": 1611.42,
+    "Latitude": 33.321900
+  },
+  {
+    "EnglishName": "Norfolk",
+    "HebrewName": "נורפוק (וירג'יניה)",
+    "Population": 244703,
+    "AreaKM2": 138.0,
+    "Density": 1773.21,
+    "Latitude": 36.550000
+  },
+  {
+    "EnglishName": "Winston–Salem",
+    "HebrewName": "וינסטון סיילם",
+    "Population": 244605,
+    "AreaKM2": 343.2,
+    "Density": 712.72,
+    "Latitude": 36.699500
+  },
+  {
+    "EnglishName": "North Las Vegas",
+    "HebrewName": null,
+    "Population": 242975,
+    "AreaKM2": 253.8,
+    "Density": 957.35,
+    "Latitude": 36.134300
+  },
+  {
+    "EnglishName": "Gilbert",
+    "HebrewName": "גילברט (אריזונה)",
+    "Population": 242354,
+    "AreaKM2": 176.1,
+    "Density": 1376.23,
+    "Latitude": 33.210000
+  },
+  {
+    "EnglishName": "Chesapeake",
+    "HebrewName": "צ'ספיק (וירג'יניה)",
+    "Population": 240397,
+    "AreaKM2": 876.7,
+    "Density": 274.21,
+    "Latitude": 36.425100
+  },
+  {
+    "EnglishName": "Irving",
+    "HebrewName": "אירווינג (טקסס)",
+    "Population": 240373,
+    "AreaKM2": 173.5,
+    "Density": 1385.44,
+    "Latitude": 32.490000
+  },
+  {
+    "EnglishName": "Hialeah",
+    "HebrewName": "הייליה",
+    "Population": 239673,
+    "AreaKM2": 55.7,
+    "Density": 4302.93,
+    "Latitude": 25.513800
+  },
+  {
+    "EnglishName": "Garland",
+    "HebrewName": "גרלנד (טקסס)",
+    "Population": 238002,
+    "AreaKM2": 147.6,
+    "Density": 1612.48,
+    "Latitude": 32.542600
+  },
+  {
+    "EnglishName": "Fremont",
+    "HebrewName": "פרימונט (קליפורניה)",
+    "Population": 234962,
+    "AreaKM2": 200.7,
+    "Density": 1170.71,
+    "Latitude": 37.325400
+  },
+  {
+    "EnglishName": "Richmond",
+    "HebrewName": "ריצ'מונד (וירג'יניה)",
+    "Population": 227032,
+    "AreaKM2": 154.9,
+    "Density": 1465.67,
+    "Latitude": 37.320000
+  },
+  {
+    "EnglishName": "Boise",
+    "HebrewName": "בויסי",
+    "Population": 226570,
+    "AreaKM2": 212.6,
+    "Density": 1065.71,
+    "Latitude": 43.370000
+  },
+  {
+    "EnglishName": "Baton Rouge",
+    "HebrewName": "באטון רוז'",
+    "Population": 225374,
+    "AreaKM2": 222.5,
+    "Density": 1012.92,
+    "Latitude": 30.265100
+  },
+  {
+    "EnglishName": "Des Moines",
+    "HebrewName": "דה מוין",
+    "Population": 217521,
+    "AreaKM2": 230.2,
+    "Density": 944.92,
+    "Latitude": 41.352700
+  },
+  {
+    "EnglishName": "Spokane",
+    "HebrewName": "ספוקיין",
+    "Population": 217108,
+    "AreaKM2": 177.9,
+    "Density": 1220.39,
+    "Latitude": 47.393200
+  },
+  {
+    "EnglishName": "San Bernardino",
+    "HebrewName": "סן ברנרדינו",
+    "Population": 216995,
+    "AreaKM2": 159.3,
+    "Density": 1362.18,
+    "Latitude": 34.600000
+  },
+  {
+    "EnglishName": "Modesto",
+    "HebrewName": "מודסטו",
+    "Population": 214221,
+    "AreaKM2": 111.4,
+    "Density": 1922.99,
+    "Latitude": 37.394100
+  },
+  {
+    "EnglishName": "Tacoma",
+    "HebrewName": "טקומה",
+    "Population": 213418,
+    "AreaKM2": 128.7,
+    "Density": 1658.26,
+    "Latitude": 47.142900
+  },
+  {
+    "EnglishName": "Fontana",
+    "HebrewName": "פונטנה (קליפורניה)",
+    "Population": 211815,
+    "AreaKM2": 111.4,
+    "Density": 1901.39,
+    "Latitude": 34.600000
+  },
+  {
+    "EnglishName": "Santa Clarita",
+    "HebrewName": "סנטה קלריטה",
+    "Population": 210888,
+    "AreaKM2": 136.8,
+    "Density": 1541.58,
+    "Latitude": 34.250000
+  },
+  {
+    "EnglishName": "Birmingham",
+    "HebrewName": "ברמינגהאם (אלבמה)",
+    "Population": 210710,
+    "AreaKM2": 378.4,
+    "Density": 556.84,
+    "Latitude": 33.391200
+  },
+  {
+    "EnglishName": "Oxnard",
+    "HebrewName": "אוקסנארד",
+    "Population": 210037,
+    "AreaKM2": 69.7,
+    "Density": 3013.44,
+    "Latitude": 34.112900
+  },
+  {
+    "EnglishName": "Fayetteville",
+    "HebrewName": "פאייטוויל",
+    "Population": 209889,
+    "AreaKM2": 382.5,
+    "Density": 548.73,
+    "Latitude": 35.390000
+  },
+  {
+    "EnglishName": "Rochester",
+    "HebrewName": "רוצ'סטר",
+    "Population": 208046,
+    "AreaKM2": 92.7,
+    "Density": 2244.29,
+    "Latitude": 43.956000
+  },
+  {
+    "EnglishName": "Moreno Valley",
+    "HebrewName": "מורנו ואלי",
+    "Population": 207226,
+    "AreaKM2": 132.9,
+    "Density": 1559.26,
+    "Latitude": 33.563500
+  },
+  {
+    "EnglishName": "Glendale",
+    "HebrewName": "גלנדייל (קליפורניה)",
+    "Population": 203054,
+    "AreaKM2": 78.7,
+    "Density": 2580.10,
+    "Latitude": 34.084600
+  },
+  {
+    "EnglishName": "Yonkers",
+    "HebrewName": "יונקרס (ניו יורק)",
+    "Population": 202019,
+    "AreaKM2": 46.6,
+    "Density": 4335.17,
+    "Latitude": 40.562900
+  },
+  {
+    "EnglishName": "Huntington Beach",
+    "HebrewName": "הנטינגטון ביץ'",
+    "Population": 201874,
+    "AreaKM2": 69.7,
+    "Density": 2896.33,
+    "Latitude": 33.413400
+  },
+  {
+    "EnglishName": "Aurora",
+    "HebrewName": "אורורה (אילינוי)",
+    "Population": 200965,
+    "AreaKM2": 116.3,
+    "Density": 1727.99,
+    "Latitude": 41.455000
+  },
+  {
+    "EnglishName": "Salt Lake City",
+    "HebrewName": "סולט לייק סיטי",
+    "Population": 200544,
+    "AreaKM2": 288.0,
+    "Density": 696.33,
+    "Latitude": 40.450000
+  },
+  {
+    "EnglishName": "Amarillo",
+    "HebrewName": "אמרילו",
+    "Population": 199826,
+    "AreaKM2": 262.6,
+    "Density": 760.95,
+    "Latitude": 35.115700
+  },
+  {
+    "EnglishName": "Montgomery",
+    "HebrewName": "מונטגומרי (אלבמה)",
+    "Population": 199518,
+    "AreaKM2": 413.9,
+    "Density": 482.04,
+    "Latitude": 32.214200
+  },
+  {
+    "EnglishName": "Grand Rapids",
+    "HebrewName": "גרנד ראפידס",
+    "Population": 198829,
+    "AreaKM2": 115.0,
+    "Density": 1728.95,
+    "Latitude": 42.574000
+  },
+  {
+    "EnglishName": "Little Rock",
+    "HebrewName": "ליטל רוק",
+    "Population": 198606,
+    "AreaKM2": 307.4,
+    "Density": 646.08,
+    "Latitude": 34.441000
+  }
+]
